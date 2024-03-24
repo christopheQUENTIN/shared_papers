@@ -1,0 +1,626 @@
+https://consensus.app/papers/mitochondriatargeted-metformins-antitumour-redox-kalyanaraman/4d56753f338f5d7fac37b99654537d95/
+
+
+Mitochondria-targeted metformins: anti-tumour and redox signalling mechanisms
+
+B. Kalyanaraman, Gang Cheng, Micael Hardy
+6 avr. 2017
+
+
+Sparkler
+Key Takeaway: Mitochondria-targeted metformin analogues with higher alkyl chain lengths show potential as a powerful anti-tumor agent, potentially achieving therapeutically effective plasma concentrations in cancer patients.
+
+Abstract
+
+Reports suggest that metformin exerts anti-cancer effects in diabetic individuals with pancreatic cancer. Thus, metformin is currently being repurposed as a potential drug in cancer treatment. Studies indicate that potent metformin analogues are required in cancer treatment because of the low bioavailability of metformin in humans at conventional antidiabetic doses. We proposed that improved mitochondrial targeting of metformin by attaching a positively charged lipophilic triphenylphosphonium group will result in a new class of mitochondria-targeted metformin analogues with significantly enhanced anti-tumour potential. Using this approach, we synthesized various mitochondria-targeted metformin analogues with different alkyl chain lengths. Results indicate that the antiproliferative effects increased with increasing alkyl chain lengths (100-fold to 1000-fold). The lead compound, mito-metformin10, potently inhibited mitochondrial respiration through inhibition of complex I, stimulation of superoxide and hydrogen peroxide formation and activation of AMPK. When used in combination with ionizing radiation, mito-metformin10 acted as a radiosensitizer of pancreatic cancer cells. Because of the 1000-fold-higher potency of mitochondria-targeted metformin10, therapeutically effective plasma concentrations likely can be achieved in cancer patients.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+Neuronal protection against oxidative insult by polyanhydride nanoparticle-based mitochondria-targeted antioxidant therapy.
+
+Timothy M. Brenza, Shivani Ghaisas, J. V. Ramirez
+1 avr. 2017
+
+
+Sparkler
+Key Takeaway: Nano-formulated mitochondria-targeted apocynin may offer improved efficacy in treating neurodegenerative diseases by protecting cells against oxidative stress-induced dysfunction and damage.
+
+Abstract
+
+A progressive loss of neuronal structure and function is a signature of many neurodegenerative conditions including chronic traumatic encephalopathy, Parkinson's, Huntington's and Alzheimer's diseases. Mitochondrial dysfunction and oxidative and nitrative stress have been implicated as key pathological mechanisms underlying the neurodegenerative processes. However, current therapeutic approaches targeting oxidative damage are ineffective in preventing the progression of neurodegeneration. Mitochondria-targeted antioxidants were recently shown to alleviate oxidative damage. In this work, we investigated the delivery of biodegradable polyanhydride nanoparticles containing the mitochondria-targeted antioxidant apocynin to neuronal cells and the ability of the nano-formulation to protect cells against oxidative stress. The nano-formulated mitochondria-targeted apocynin provided excellent protection against oxidative stress-induced mitochondrial dysfunction and neuronal damage in a dopaminergic neuronal cell line, mouse primary cortical neurons, and a human mesencephalic cell line. Collectively, our results demonstrate that nano-formulated mitochondria-targeted apocynin may offer improved efficacy of mitochondria-targeted antioxidants to treat neurodegenerative disease.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+ Nanotechnology-Based Drug Delivery Strategies to Repair the Mitochondrial Function in Neuroinflammatory and Neurodegenerative Diseases
+by Luis F. González, Lorenzo E. Bevilacqua [ORCID] and Rodrigo Naves *
+
+
+ Pharmaceutics 2021, 13(12), 2055; https://doi.org/10.3390/pharmaceutics13122055 
+
+
+
+Abstract
+Mitochondria are vital organelles in eukaryotic cells that control diverse physiological processes related to energy production, calcium homeostasis, the generation of reactive oxygen species, and cell death. Several studies have demonstrated that structural and functional mitochondrial disturbances are involved in the development of different neuroinflammatory (NI) and neurodegenerative (ND) diseases (NI&NDDs) such as multiple sclerosis, Alzheimer’s disease, Parkinson’s disease, Huntington’s disease, and amyotrophic lateral sclerosis. Remarkably, counteracting mitochondrial impairment by genetic or pharmacologic treatment ameliorates neurodegeneration and clinical disability in animal models of these diseases. Therefore, the development of nanosystems enabling the sustained and selective delivery of mitochondria-targeted drugs is a novel and effective strategy to tackle NI&NDDs. In this review, we outline the impact of mitochondrial dysfunction associated with unbalanced mitochondrial dynamics, altered mitophagy, oxidative stress, energy deficit, and proteinopathies in NI&NDDs. In addition, we review different strategies for selective mitochondria-specific ligand targeting and discuss novel nanomaterials, nanozymes, and drug-loaded nanosystems developed to repair mitochondrial function and their therapeutic benefits protecting against oxidative stress, restoring cell energy production, preventing cell death, inhibiting protein aggregates, and improving motor and cognitive disability in cellular and animal models of different NI&NDDs.
+Keywords:
+mitochondria; mitochondrial dysfunction; neuroinflammatory diseases; neurodegenerative diseases; drug delivery; nanosystems; nanovehicle; nanomedicine
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/36401516/
+
+
+ Review
+Antioxid Redox Signal
+
+. 2023 Apr;38(10-12):824-852.
+doi: 10.1089/ars.2022.0106. Epub 2023 Mar 9.
+Redox Modulation of Mitochondrial Proteins in the Neurotoxicant Models of Parkinson's Disease
+Alika Sarkar  1   2 , Mohd Sami Ur Rasheed  1   2 , Mahendra Pratap Singh  1   2
+Affiliations
+
+    PMID: 36401516 DOI: 10.1089/ars.2022.0106 
+
+Abstract
+
+Significance: Mitochondrial proteins regulate the oxidative phosphorylation, cellular metabolism, and free radical generation. Redox modulation alters the mitochondrial proteins and instigates the damage to dopaminergic neurons. Toxicants contribute to Parkinson's disease (PD) pathogenesis in conjunction with aging and genetic factors. While oxidative modulation of a number of mitochondrial proteins is linked to xenobiotic exposure, little is known about its role in the toxicant-induced PD. Understanding the role of redox modulation of mitochondrial proteins in complex cellular events leading to neurodegeneration is highly relevant. Recent Advances: Many toxicants are shown to inhibit complex I or III and elicit free radical production that alters the redox status of mitochondrial proteins. Implication of redox modulation of the mitochondrial proteins makes them a target to comprehend the underlying mechanism of toxicant-induced PD. Critical Issues: Owing to multifactorial etiology, exploration of onset and progression and treatment outcomes needs a comprehensive approach. The article explains about a few mitochondrial proteins that undergo redox changes along with the promising strategies, which help to alleviate the toxicant-induced redox imbalance leading to neurodegeneration. Future Directions: Although mitochondrial proteins are linked to PD, their role in toxicant-induced parkinsonism is not yet completely known. Preservation of antioxidant defense machinery could alleviate the redox modulation of mitochondrial proteins. Targeted antioxidant delivery, use of metal chelators, and activation of nuclear factor erythroid 2-related factor 2, and combinational therapy that encounters multiple free radicals, could ameliorate the redox modulation of mitochondrial proteins and thereby PD progression. Antioxid. Redox Signal. 38, 824-852.
+
+Keywords: PD; mitochondrial protein; neurotoxicant; oxidative stress; redox modulation.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://www.sciencedirect.com/science/article/abs/pii/B9780128177761000055?via%3Dihub
+
+
+Delivery of Drugs
+Volume 2: Expectations and Realities of Multifunctional Drug Delivery Systems
+2020, Pages 97-117
+Delivery of Drugs
+Chapter 5 - Mitochondria-targeted drug delivery in neurodegenerative diseases
+Author links open overlay panel
+
+
+
+
+Abstract
+
+Mitochondria play a crucial role in eukaryotic cells not only in energy molecule, adenosine triphosphate (ATP), production through the electron transport chain (ETC), it also regulates the redox homeostasis and cell survival. Mitochondria dysfunction and the associated oxidative stress is implicated as disease aggravating mechanisms in neurodegenerative diseases like Parkinson’s Disease, Alzheimer's disease, Huntington’s disease, and amyotrophic lateral sclerosis etc. The unique bilayered structure and high negative potential of mitochondria and also the blood brain barrier penetration capacity of conventional molecules becomes limitation to exert their effects directly to brain mitochondria. Specialized nano formulations are reported to be capable of overcoming these limitations offering sustained and mitochondria specific delivery, further enhancing the pharmacokinetic and biodistribution of the drug(s). Delivery of drugs to mitochondrial is achieved using various systems such as DQAsomes (Dequalinium chloride), a mitochondriotropic nano formulation, and other formulations liposomes, dendrimers, polymeric and metal nanoparticles modified by mitochondriotropic moieties like triphenylphosphonium (TPP). These nanoparticles possess specific particle sizes, with lipophilic surface and desired charges that can penetrate the mitochondrial barrier efficiently. This chapter is summarizes the current strategies employed in mitochondrial drug delivery in neurodegenerative diseases addressing the limitations, clinical and regulatory challenges.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+GPT4
+
+The studies on mitochondria in plasma and blood tests highlight a diverse range of findings, revealing both the presence of circulating mitochondrial DNA (mtDNA) and functional mitochondria in the bloodstream, along with methodologies for their analysis and potential implications for diagnostics and research.
+
+    Circulating mitochondrial DNA (mtDNA) has been detected in plasma, suggesting that both particle-associated and free forms of mtDNA exist in the bloodstream. The concentration and characteristics of circulating mtDNA are influenced by the methods used to process plasma from whole blood. This finding underscores the potential of circulating mtDNA as a biomarker in various disease conditions, although the impact of blood processing methods on mtDNA concentrations highlights the need for standardized procedures in future studies (Chiu et al., 2003).
+
+    Whole, functional mitochondria have been found in the bloodstream, with evidence suggesting that these mitochondria are respiratory competent. This discovery broadens the understanding of cell-cell communication and the potential roles of mitochondria outside the cell. It also opens new avenues for investigating the relevance of circulating mitochondria in disease diagnosis and prognosis (Al Amir Dache et al., 2020).
+
+    Circulating mitochondria in human and animal blood have been confirmed, displaying immune tolerance-associated membrane molecules. These mitochondria can stimulate the proliferation of activated peripheral blood mononuclear cells (PBMCs), suggesting a role in cell-cell communication and homeostasis maintenance. The existence of circulating mitochondria may have implications for the use of plasma-related products in cell culture, due to potential mitochondrial contamination (Song et al., 2020).
+
+    The analysis of mitochondrial DNA in whole blood and plasma, especially in the context of cancer diagnostics, emphasizes the importance of standardized and controlled preanalytical procedures. Different preanalytical workflows showed significant differences in mtDNA analysis outcomes between cancer patients and healthy subjects, highlighting the potential of tumor-derived mtDNA mutations detected from whole blood as a significant advancement in early cancer diagnosis (Randeu et al., 2022).
+
+These studies collectively suggest that circulating mtDNA and mitochondria in blood plasma may serve as novel mediators for cell-cell communications and potentially as biomarkers for various diseases. The findings also stress the necessity for refined methodologies and standardized procedures in the analysis and interpretation of circulating mitochondrial components.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://consensus.app/papers/mitochondriatargeted-compounds-syntheses-mechanisms-zielonka/b70818b57bf65a06be7992cab6dfd6e1/?utm_source=chatgpt
+
+
+Mitochondria-Targeted Triphenylphosphonium-Based Compounds: Syntheses, Mechanisms of Action, and Therapeutic and Diagnostic Applications.
+
+J. Zielonka, J. Joseph, A. Sikora
+27 juin 2017
+
+
+Key Takeaway: Mitochondrial targeting of small-molecule compounds offers potential for diagnostic tools and therapeutic treatments in cancer and neurodegenerative diseases.
+
+Abstract
+
+Mitochondria are recognized as one of the most important targets for new drug design in cancer, cardiovascular, and neurological diseases. Currently, the most effective way to deliver drugs specifically to mitochondria is by covalent linking a lipophilic cation such as an alkyltriphenylphosphonium moiety to a pharmacophore of interest. Other delocalized lipophilic cations, such as rhodamine, natural and synthetic mitochondria-targeting peptides, and nanoparticle vehicles, have also been used for mitochondrial delivery of small molecules. Depending on the approach used, and the cell and mitochondrial membrane potentials, more than 1000-fold higher mitochondrial concentration can be achieved. Mitochondrial targeting has been developed to study mitochondrial physiology and dysfunction and the interaction between mitochondria and other subcellular organelles and for treatment of a variety of diseases such as neurodegeneration and cancer. In this Review, we discuss efforts to target small-molecule compounds to mitochondria for probing mitochondria function, as diagnostic tools and potential therapeutics. We describe the physicochemical basis for mitochondrial accumulation of lipophilic cations, synthetic chemistry strategies to target compounds to mitochondria, mitochondrial probes, and sensors, and examples of mitochondrial targeting of bioactive compounds. Finally, we review published attempts to apply mitochondria-targeted agents for the treatment of cancer and neurodegenerative diseases.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+GPT4
+
+    CpG Methylation is a well-documented epigenetic modification where methyl groups are added to the cytosine base in CpG dinucleotides, impacting gene expression and cellular function. This modification is influenced by both intrinsic and environmental factors and is pivotal in gene regulation (Clark & Rager, 2020).
+
+    Chromatin Remodeling involves the restructuring of chromatin, affecting the accessibility of genetic information for transcriptional machinery. It is a dynamic process that regulates DNA replication, repair, and recombination, as well as gene expression. Various proteins, including DNA methyltransferases, histone-modifying enzymes, and chromatin remodeling factors, play significant roles in this process, which is essential for normal cellular regulation and is often altered in disease states (Nakao, 2001).
+
+    Regulatory Noncoding RNAs are crucial in epigenetic regulation, functioning beyond mere gene expression regulation at the post-transcriptional level. This includes microRNAs (miRNAs), Piwi-interacting RNAs (piRNAs), endogenous small interfering RNAs (siRNAs), and long noncoding RNAs (lncRNAs). These noncoding RNAs have emerged as significant players in the epigenetic regulatory network, influencing cellular growth, differentiation, and the development of diseases such as cancer and autoimmune disorders (Wei et al., 2017).
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+European Journal of Pharmaceutics and Biopharmaceutics
+Volume 158, January 2021, Pages 284-293
+European Journal of Pharmaceutics and Biopharmaceutics
+siRNA delivery to macrophages using aspherical, nanostructured microparticles as delivery system for pulmonary administration
+Author links open overlay panel
+
+https://doi.org/10.1016/j.ejpb.2020.11.024
+
+
+Abstract
+
+The delivery of oligonucleotides such as siRNA to the lung is a major challenge, as this group of drugs has difficulties to overcome biological barriers due to its polyanionic character and the associated hydrophilic properties, resulting in inefficient delivery. Especially in diseases such as asthma, chronic obstructive pulmonary disease and cystic fibrosis, where increased proinflammation is present, a targeted RNA therapy is desirable due to the high potency of these oligonucleotides. To address these problems and to ensure efficient uptake of siRNA in macrophages, a microparticulate, cylindrical delivery system was developed. In the first step, this particle system was tested for its aerodynamic characteristics to evaluate the aerodynamic properties to optimize lung deposition. The mass median aerodynamic diameter of 2.52 ± 0.23 µm, indicates that the desired target should be reached. The inhibition of TNF-α release, as one of the main mediators of proinflammatory reactions, was investigated. We could show that our carrier system can be loaded with siRNA against TNF-α. Gel electrophoreses allowed to demonstrate that the load can be incorporated and released without being degraded. The delivery system was found to transport a mass fraction of 0.371% [%w/w] as determined by inductively coupled plasma mass spectroscopy. When investigating the release kinetics, the results showed that several days are necessary to release a major amount of the siRNA indicating a sustained release. The cylindrical microparticles with an aspect ratio of 3.3 (ratio of length divided by width) were then tested in vitro successfully reducing TNF-α release from human macrophages significantly by more than 30%. The developed formulation presents a possible oligonucleotide delivery system allowing due to its internal structure to load and protect siRNA.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Chapter 4 - Nanocarriers for topical delivery in psoriasis
+Author links open overlay panel
+
+https://doi.org/10.1016/B978-0-12-817776-1.00004-3
+
+
+Abstract
+
+Psoriasis is a chronic autoimmune skin disorder that affects millions of people across the planet. It causes many serious complications to afflicted patients and is indicated by uncontrolled growth and differentiation of keratinocytes. Conventional dosage forms have been used for the topical delivery of antipsoriatic drugs but they possess their own limitations. These include poor patient compliance, inadequate penetration and targeting to diseased skin, and local toxicity. In recent decades nanocarriers like liposomes, micelles, and solid lipid nanoparticles have shown potential in delivering antipsoriatic active compounds to the targeted areas of skin. Such novel formulations improve therapeutic efficacy, increase localization of drug in the skin, and decrease side effects. This chapter sheds light on the current advancements in the field of nanocarriers in treating the psoriatic skin condition.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://www.semanticscholar.org/paper/Mitochondrial-Dysfunctions%3A-A-Red-Thread-across-Stanga-Caretto/a66a5f83cb37c42bce7880c4ae62f93aaa9e2bf3
+
+    DOI:10.3390/ijms21103719Corpus ID: 218985833
+
+Mitochondrial Dysfunctions: A Red Thread across Neurodegenerative Diseases
+
+    S. Stanga, A. Caretto, 
+
+    A. Vercelli
+    Published in International Journal of… 1 May 2020
+    Medicine, Biology
+
+The pathways related to mitochondrial dysfunctions which are shared among the most frequent or disabling neurodegenerative diseases such as Alzheimer's, Parkinson's, and Huntington’s, Amyotrophic Lateral Sclerosis, and Spinal Muscular Atrophy are dissected.
+Abstract
+Mitochondria play a central role in a plethora of processes related to the maintenance of cellular homeostasis and genomic integrity. They contribute to preserving the optimal functioning of cells and protecting them from potential DNA damage which could result in mutations and disease. However, perturbations of the system due to senescence or environmental factors induce alterations of the physiological balance and lead to the impairment of mitochondrial functions. After the description of the crucial roles of mitochondria for cell survival and activity, the core of this review focuses on the “mitochondrial switch” which occurs at the onset of neuronal degeneration. We dissect the pathways related to mitochondrial dysfunctions which are shared among the most frequent or disabling neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and Huntington’s, Amyotrophic Lateral Sclerosis, and Spinal Muscular Atrophy. Can mitochondrial dysfunctions (affecting their morphology and activities) represent the early event eliciting the shift towards pathological neurobiological processes? Can mitochondria represent a common target against neurodegeneration? We also review here the drugs that target mitochondria in neurodegenerative diseases.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+https://www.semanticscholar.org/paper/Mitochondrial-and-Organellar-Crosstalk-in-Disease-Ray-Bhat/32366fe279eea6f029f468a03b5df939076b6182
+
+    DOI:10.1177/17590914211028364Corpus ID: 236431559
+
+Mitochondrial and Organellar Crosstalk in Parkinson’s Disease
+
+    Bipul Ray, Abid R Bhat, 
+
+    M. Sakharkar
+    Published in ASN Neuro 1 January 2021
+    Medicine, Biology
+
+The manuscript elaborates on the contributions of mitochondrial contact sites and organelles dysfunction to the pathogenesis of PD and suggests potential therapeutic targets.
+Abstract
+Mitochondrial dysfunction is a well-established pathological event in Parkinson’s disease (PD). Proteins misfolding and its impaired cellular clearance due to altered autophagy/mitophagy/pexophagy contribute to PD progression. It has been shown that mitochondria have contact sites with endoplasmic reticulum (ER), peroxisomes and lysosomes that are involved in regulating various physiological processes. In pathological conditions, the crosstalk at the contact sites initiates alterations in intracellular vesicular transport, calcium homeostasis and causes activation of proteases, protein misfolding and impairment of autophagy. Apart from the well-reported molecular changes like mitochondrial dysfunction, impaired autophagy/mitophagy and oxidative stress in PD, here we have summarized the recent scientific reports to provide the mechanistic insights on the altered communications between ER, peroxisomes, and lysosomes at mitochondrial contact sites. Furthermore, the manuscript elaborates on the contributions of mitochondrial contact sites and organelles dysfunction to the pathogenesis of PD and suggests potential therapeutic targets.
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://consensus.app/papers/detection-mitochondriapertinent-components-exosomes-wang/b6d4ac5d5aaa55988a38c7d541612f18/?utm_source=chatgpt
+
+
+Detection of mitochondria-pertinent components in exosomes.
+
+Xiaowan Wang, Ian W. Weidling, Scott J Koppel
+24 sept. 2020
+
+
+Sparkler
+Key Takeaway: Exosomes contain proteins and mtDNA-derived mRNA sequences that reflect mitochondrial integrity, potentially aiding in the development of exosome-focused biomarkers.
+
+Abstract
+
+We screened cell line and plasma-derived exosomes for molecules that localize to mitochondria or that reflect mitochondrial integrity. SH-SY5Y cell-derived exosomes contained humanin, citrate synthase, and fibroblast growth factor 21 protein, and plasma-derived exosomes contained humanin, voltage-dependent anion-selective channel 1, and transcription factor A protein. Nuclear mitochondrial (NUMT) DNA complicated analyses of mitochondrial DNA (mtDNA), which otherwise suggested exosomes contain at most very low amounts of extended mtDNA sequences but likely contain degraded pieces of mtDNA. Cell and plasma-derived exosomes contained several mtDNA-derived mRNA sequences, including those for ND2, CO2, and humanin. These results can guide exosome-focused, mitochondria-pertinent biomarker development.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://consensus.app/papers/engineering-exosomes-specifically-target-mitochondria-yan/8ebcda31e9795c8a8289fc4e5e07ba82/?utm_source=chatgpt
+
+Engineering Exosomes to Specifically Target the Mitochondria of Brain Cells
+
+Xin Yan, Xinqian Chen, Zhiying Shan
+11 déc. 2023
+
+
+Sparkler
+Key Takeaway: Engineering brain-derived exosomes to target mitochondria shows promise in treating cardiovascular and neurodegenerative diseases by transporting therapeutic agents to dysfunctional or damaged cells.
+
+Abstract
+
+Mitochondrial dysfunction is associated with various health conditions, including cardiovascular and neurodegenerative diseases. Mitochondrial-targeting therapy aims to restore or enhance mitochondrial function to treat or alleviate these conditions. Exosomes, small vesicles that cells secrete, containing a variety of biomolecules, are critical in cell-to-cell communication and have been studied as potential therapeutic agents. Exosome-based therapy has the potential to treat both cardiovascular and neurodegenerative diseases. Combining these two approaches involves using exosomes as carriers to transport mitochondrial-targeting agents to dysfunctional or damaged mitochondria within target cells. This article presents a new technique for engineering brain-derived exosomes that target mitochondria and has demonstrated promise in initial tests with primary neuron cells and healthy rats. This promising development represents a significant step forward in treating these debilitating conditions.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://consensus.app/papers/peptidemediated-delivery-chemical-probes-therapeutics-jean/2d90b7a50e0252f3aa178fd49f44a50c/?utm_source=chatgpt
+
+
+Peptide-Mediated Delivery of Chemical Probes and Therapeutics to Mitochondria.
+
+Sae Rin Jean, Marya Ahmed, Eric K. Lei
+16 août 2016
+
+
+
+Sparkler
+Key Takeaway: Peptide-based delivery systems can effectively transport bioactive cargo into mitochondria, enhancing their drug properties and providing insights into mitochondrial biology and potential future drug targets.
+
+Abstract
+
+Mitochondria are organelles with critical roles in key processes within eukaryotic cells, and their dysfunction is linked with numerous diseases including neurodegenerative disorders and cancer. Pharmacological manipulation of mitochondrial function is therefore important both for basic science research and eventually, clinical medicine. However, in comparison to other organelles, mitochondria are difficult to access due to their hydrophobic and dense double membrane system as well as their negative membrane potential. To tackle the challenge of targeting these important subcellular compartments, significant effort has been put forward to develop mitochondria-targeted systems capable of transporting bioactive cargo into the mitochondrial interior. Systems now exist that utilize small molecule, peptide, liposome, and nanoparticle-based transport. The vectors available vary in size and structure and can facilitate transport of a variety of compounds for mitochondrial delivery. Notably, peptide-based delivery scaffolds offer attractive features such as ease of synthesis, tunability, biocompatibility, and high uptake both in cellulo and in vivo. Owing to their simple and modular synthesis, these peptides are highly adaptable for delivering chemically diverse cargo. Key design features of mitochondria-targeted peptides include cationic charge, which allows them to harness the negative membrane potential of mitochondria, and lipophilicity, which permits favorable interaction with hydrophobic membranes of mitochondria. These peptides have been covalently tethered to target therapeutic agents, including anticancer drugs, to enhance their drug properties, and to provide probes for mitochondrial biology. Interestingly, mitochondria-targeted DNA damaging agents demonstrate high potency and the ability to evade resistance mechanisms and off-target effects. Moreover, a combination of mitochondria-targeted DNA damaging agents was applied to an siRNA screen for the elucidation of poorly understood mitochondrial DNA repair and replication pathways. In this work, a variety of novel proteins were identified that are essential for the maintenance of mitochondrial nucleic acids. Mitochondria-targeted peptides have also been used to increase the therapeutic window of antibacterial drugs with significant mammalian toxicity. Given the evolutionary similarity of mitochondria and bacteria, peptides are effective transporters that can target both of these entities. These antimicrobial peptides are highly effective even in difficult to target intracellular bacteria which reside within host cells. This peptide-based approach to targeting mitochondria has provided a variety of insights into the "druggability" of mitochondria and new biological processes that could be future drug targets. Nevertheless, the mitochondrial-targeting field is quite nascent and many exciting applications of organelle-specific conjugates remain to be explored. In this Account, we highlight the development and optimization of the mitochondria-penetrating peptides that our laboratory has developed, the unique applications of mitochondria-targeted bioactive cargo, and offer a perspective on important directions for the field.
+
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://consensus.app/papers/druginduced-dysfunction-cardiotoxicity-varga/069f07f768d7539f80c25a2a2d547bb9/?utm_source=chatgpt
+
+
+Drug-induced mitochondrial dysfunction and cardiotoxicity.
+
+Z. Varga, P. Ferdinandy, L. Liaudet
+1 nov. 2015
+
+Sparkler
+Key Takeaway: Mitochondrial dysfunction in common drugs can lead to cardiotoxicity, and cardioprotective strategies may help prevent these toxicities.
+
+Abstract
+
+Mitochondria has an essential role in myocardial tissue homeostasis; thus deterioration in mitochondrial function eventually leads to cardiomyocyte and endothelial cell death and consequent cardiovascular dysfunction. Several chemical compounds and drugs have been known to directly or indirectly modulate cardiac mitochondrial function, which can account both for the toxicological and pharmacological properties of these substances. In many cases, toxicity problems appear only in the presence of additional cardiovascular disease conditions or develop months/years following the exposure, making the diagnosis difficult. Cardiotoxic agents affecting mitochondria include several widely used anticancer drugs [anthracyclines (Doxorubicin/Adriamycin), cisplatin, trastuzumab (Herceptin), arsenic trioxide (Trisenox), mitoxantrone (Novantrone), imatinib (Gleevec), bevacizumab (Avastin), sunitinib (Sutent), and sorafenib (Nevaxar)], antiviral compound azidothymidine (AZT, Zidovudine) and several oral antidiabetics [e.g., rosiglitazone (Avandia)]. Illicit drugs such as alcohol, cocaine, methamphetamine, ecstasy, and synthetic cannabinoids (spice, K2) may also induce mitochondria-related cardiotoxicity. Mitochondrial toxicity develops due to various mechanisms involving interference with the mitochondrial respiratory chain (e.g., uncoupling) or inhibition of the important mitochondrial enzymes (oxidative phosphorylation, Szent-Györgyi-Krebs cycle, mitochondrial DNA replication, ADP/ATP translocator). The final phase of mitochondrial dysfunction induces loss of mitochondrial membrane potential and an increase in mitochondrial oxidative/nitrative stress, eventually culminating into cell death. This review aims to discuss the mechanisms of mitochondrion-mediated cardiotoxicity of commonly used drugs and some potential cardioprotective strategies to prevent these toxicities.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+GPT4
+
+Mitocans are a class of anticancer agents that target mitochondria in cancer cells, destabilizing them to induce apoptosis. These agents are particularly intriguing because they offer a strategy that could potentially target cancer cells selectively, given that mitochondria play essential roles in cellular metabolism, redox homeostasis, and regulation of cell death, and that cancer cells exhibit various degrees of mitochondrial dysfunctions and metabolic alterations.
+
+    Mitocans induce apoptosis in cancer cells through mechanisms that involve the generation of reactive oxygen species (ROS) and the disruption of mitochondrial functions. The molecular mechanism of induction of apoptosis by mitocans involves the generation of ROS, which mediate the formation of disulfide bridges between cytosolic Bax monomers, resulting in the formation of mitochondrial outer membrane channels. ROS also cause oxidation of cardiolipin, triggering the release of cytochrome c and its translocation via the activated Bax channels (Neuzil et al., 2006).
+
+    Mitocans can be categorized into various classes based on their mode of action, including those that inhibit the electron transport chain, those that mimic Bcl-2 family proteins, and those that target mitochondrial DNA or other mitochondrial components. Each class has the potential to interfere with the bioenergetic functions of cancer cell mitochondria, causing disruptions often associated with ensuing overloads in ROS production and leading to apoptosis (Ralph & Neuzil, 2009).
+
+    The selective targeting of cancer cells by mitocans is underpinned by the observation that cancer cells tend to have altered mitochondrial functions and reduced antioxidant defenses compared to normal cells. This makes them more vulnerable to the disruptive actions of mitocans, highlighting the potential for these agents to provide a targeted approach to cancer therapy with minimal effects on healthy cells (Neuzil et al., 2007).
+
+In summary, mitocans represent a promising class of anticancer agents that act by specifically targeting the mitochondria of cancer cells, inducing apoptosis through mechanisms involving ROS generation and disruption of mitochondrial functions. The selective vulnerability of cancer cells to mitochondrial dysfunction makes mitocans an exciting avenue for the development of novel cancer therapies.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/35879417/
+
+
+ Review
+Nat Rev Immunol
+
+. 2023 Mar;23(3):159-173.
+doi: 10.1038/s41577-022-00760-x. Epub 2022 Jul 25.
+Mitochondrial control of inflammation
+Saverio Marchi #  1 , Emma Guilbaud #  2 , Stephen W G Tait  3   4 , Takahiro Yamazaki  5 , Lorenzo Galluzzi  6   7   8
+Affiliations
+
+    PMID: 35879417 PMCID: PMC9310369 DOI: 10.1038/s41577-022-00760-x 
+
+
+
+Abstract
+
+Numerous mitochondrial constituents and metabolic products can function as damage-associated molecular patterns (DAMPs) and promote inflammation when released into the cytosol or extracellular milieu. Several safeguards are normally in place to prevent mitochondria from eliciting detrimental inflammatory reactions, including the autophagic disposal of permeabilized mitochondria. However, when the homeostatic capacity of such systems is exceeded or when such systems are defective, inflammatory reactions elicited by mitochondria can become pathogenic and contribute to the aetiology of human disorders linked to autoreactivity. In addition, inefficient inflammatory pathways induced by mitochondrial DAMPs can be pathogenic as they enable the establishment or progression of infectious and neoplastic disorders. Here we discuss the molecular mechanisms through which mitochondria control inflammatory responses, the cellular pathways that are in place to control mitochondria-driven inflammation and the pathological consequences of dysregulated inflammatory reactions elicited by mitochondrial DAMPs.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/33587003/
+
+illustrations++
+
+ Review
+Antioxid Redox Signal
+
+. 2021 Nov 20;35(15):1308-1323.
+doi: 10.1089/ars.2021.0008. Epub 2021 Mar 30.
+Damage-Associated Molecular Patterns As Double-Edged Swords in Sepsis
+Mian Zhou  1 , Monowar Aziz  1 , Ping Wang  1   2
+Affiliations
+
+    PMID: 33587003 PMCID: PMC8817718 DOI: 10.1089/ars.2021.0008 
+
+
+
+Abstract
+
+Significance: Sepsis is defined as a life-threatening organ dysfunction caused by dysregulated host response to infection. This leads to an uncontrolled inflammatory response at the onset of infection, followed by immunosuppression. The development of a specific treatment modality for sepsis is still challenging, reflecting our inadequate understanding of its pathophysiology. Understanding the mechanism and transition of the early hyperinflammation to late stage of immunosuppression in sepsis is critical for developing sepsis therapeutics. Recent Advances: Damage-associated molecular patterns (DAMPs) are intracellular molecules and released upon tissue injury and cell death in sepsis. DAMPs are recognized by pattern recognition receptors to initiate inflammatory cascades. DAMPs not only elicit an inflammatory response but also they subsequently induce immunosuppression, both are equally important for exacerbating sepsis. Recent advances on a new DAMP, extracellular cold-inducible RNA-binding protein for fueling inflammation and immunosuppression in sepsis, have added a new avenue into the dual functions of DAMPs in sepsis. Critical Issues: The molecular modification of DAMPs and their binding to pattern recognition receptors transit dynamically by the cellular environment in pathophysiologic conditions. Correlation between the dynamic changes of the impacts of DAMPs and the clinical outcomes in sepsis still lacks adequate understanding. Here, we focus on the impacts of DAMPs that cause inflammation as well as induce immunosuppression in sepsis. We further discuss the therapeutic potential by targeting DAMPs to attenuate inflammation and immunosuppression for mitigating sepsis. Future Directions: Uncovering pathways of the transition from inflammation to immunosuppression of DAMPs is a potential therapeutic avenue for mitigating sepsis.
+
+Keywords: ATP; DAMP; HMGB1; eCIRP; histones; immunosuppression; inflammation.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/37432883/
+
+
+ Review
+FEBS J
+
+. 2023 Jul 11.
+doi: 10.1111/febs.16902. Online ahead of print.
+Metabolite-derived damage-associated molecular patterns in immunological diseases
+Na Kang  1   2 , Zhenglin Ji  1 , Yuxin Li  1 , Ji Gao  1 , Xinfeng Wu  3 , Xiaoyang Zhang  1 , Qinghui Duan  1   2 , Can Zhu  1 , Yue Xu  1 , Luyao Wen  3 , Xiaofei Shi  3 , Wanli Liu  1   2
+Affiliations
+
+    PMID: 37432883 DOI: 10.1111/febs.16902 
+
+Abstract
+
+Damage-associated molecular patterns (DAMPs) are typically derived from the endogenous elements of necrosis cells and can trigger inflammatory responses by activating DAMPs-sensing receptors on immune cells. Failure to clear DAMPs may lead to persistent inflammation, thereby contributing to the pathogenesis of immunological diseases. This review focuses on a newly recognized class of DAMPs derived from lipid, glucose, nucleotide, and amino acid metabolic pathways, which are then termed as metabolite-derived DAMPs. This review summarizes the reported molecular mechanisms of these metabolite-derived DAMPs in exacerbating inflammation responses, which may attribute to the pathology of certain types of immunological diseases. Additionally, this review also highlights both direct and indirect clinical interventions that have been explored to mitigate the pathological effects of these DAMPs. By summarizing our current understanding of metabolite-derived DAMPs, this review aims to inspire future thoughts and endeavors on targeted medicinal interventions and the development of therapies for immunological diseases.
+
+Keywords: amino acid metabolism; damage-associated molecular patterns; glucose metabolism; immunological diseases; lipid metabolism; nucleotide metabolism.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/36835273/
+
+ Review
+Int J Mol Sci
+
+. 2023 Feb 15;24(4):3862.
+doi: 10.3390/ijms24043862.
+Role of Damage-Associated Molecular Patterns (DAMPS) in the Postoperative Period after Colorectal Surgery
+María José Caballero-Herrero  1 , Esther Jumilla  1 , Manuel Buitrago-Ruiz  2 , Graciela Valero-Navarro  2   3 , Santiago Cuevas  1
+Affiliations
+
+    PMID: 36835273 PMCID: PMC9958549 DOI: 10.3390/ijms24043862 
+
+Abstract
+
+Anastomotic leakage (AL) is a defect of the intestinal wall at the anastomotic site and is one of the most severe complications in colorectal surgery. Previous studies have shown that the immune system response plays a significant role in the development of AL. In recent years, DAMPs (damage-associated molecular patterns) have been identified as cellular compounds with the ability to activate the immune system. The NLRP3 inflammasome plays an important role in the inflammatory responses which are mediated by DAMPs such as ATP, HSP proteins or uric acid crystals, when found in extracellular environments. Recent publications suggest that systemic concentration of DAMPs in patients with colorectal surgery may determine the inflammatory process and have a role in the occurrence of AL and other post-surgery complications. This review provides valuable knowledge about the current evidence supporting this hypothesis and highlights the possible role of these compounds in postoperative processes, which could open a new path to explore new strategies to prevent possible post-surgical complications.
+
+Keywords: NLRP3 inflammasome; anastomotic leak; colorectal surgery; damage-associated molecular patterns.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/22921594/
+
+
+Review
+Adv Drug Deliv Rev
+
+. 2013 Mar;65(3):383-90.
+doi: 10.1016/j.addr.2012.08.007. Epub 2012 Aug 17.
+Imaging exosome transfer from breast cancer cells to stroma at metastatic sites in orthotopic nude-mouse models
+Atsushi Suetsugu  1 , Kimi Honma, Shigetoyo Saji, Hisataka Moriwaki, Takahiro Ochiya, Robert M Hoffman
+Affiliations
+
+    PMID: 22921594 DOI: 10.1016/j.addr.2012.08.007 
+
+Abstract
+
+Exosomes play an important role in cell-to-cell communication to promote tumor metastasis. In order to image the fate of cancer-cell-derived exosomes in orthotopic nude mouse models of breast cancer, we used green fluorescent protein (GFP)-tagged CD63, which is a general marker of exosomes. Breast cancer cells transferred their own exosomes to other cancer cells and normal lung tissue cells in culture. In orthotopic nude-mouse models, breast cancer cells secreted exosomes into the tumor microenvironment. Tumor-derived exosomes were incorporated into tumor-associated cells as well as circulating in the blood of mice with breast cancer metastases. These results suggest that tumor-derived exosomes may contribute to forming a niche to promote tumor growth and metastasis. Our results demonstrate the usefulness of GFP imaging to investigate the role of exosomes in cancer metastasis.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/30905514/
+
+
+ Comment
+Eur Urol
+
+. 2019 Aug;76(2):254-255.
+doi: 10.1016/j.eururo.2019.02.036. Epub 2019 Mar 22.
+Re: A Prospective Adaptive Utility Trial to Validate Performance of a Novel Urine Exosome Gene Expression Assay to Predict High-grade Prostate Cancer in Patients with Prostate-specific Antigen 2-10ng/ml at Initial Biopsy
+Fumihiko Urabe  1 , Takahiro Ochiya  2 , Shin Egawa  3
+Affiliations
+
+    PMID: 30905514 DOI: 10.1016/j.eururo.2019.02.036 
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://cfar.ucsf.edu/award/surface-engineering-exosomes-specifically-bind-and-kill-hiv-infected-cells
+
+
+
+Recipient
+Pooja Bhardwaj, PhD
+Award mentor
+Satish Pillai, PhD
+Award type
+Mentored Scientist Award
+Award date
+2019
+Award cycle
+Fall
+Award amount - Direct
+50,000.00
+Abstract
+
+The current limitations of antiretroviral therapy is driving interest in alternative therapeutics which fully resolve inflammation and achieve complete eradication of HIV latently-infected cells. Exosomes are nano-sized membrane vesicles and key players of intercellular signaling. Interestingly, exosomes have shown promise as engineerable therapeutic agents for a broad range of diseases. The objective of this grant is to surface engineer exosomes ex vivo using surface display technology and pack the decorated exosomes with cytotoxic cargo. The engineered exosomes will be utilized as specific delivery nanoshuttles to bind and mediate clearance of specific cells of interest. In our preliminary results, we show that exosomes can be surface decorated with anti-HIV envelope fusion proteins and can significantly suppress HIV infection in Jurkat and primary human CD4+ T cells in a dose dependent manner (p<0.05, paired t-test). In addition, the designer exosomes show potent binding to HIV particles in nanoimaging analyses, while control exosomes do not bind to virions. Engineered exosomes are preferentially internalized by cells expressing specific surface markers of interest (p<0.0001, Chi square test), demonstrating that decoration with functional fusion proteins enables targeted cell delivery. Hence, in this RAP proposal, we will assess the binding efficiency of anti-HIV envelope surface decorated exosomes to target cells in a mixed population of envelope-positive and envelope-negative cells (Aim 1). Also, we will measure the efficiency of engineered exosomes to bind, deliver cytotoxic cargo, and mediate selective killing of targeted HIV-infected envelope expressing cells in mixed populations (Aim 2). Aim 1 will be completed in 4 months and aim 2 will be concluded in 6 months. For statistical analysis, we will use Chi square tests for individual experiments to measure associations between exosome uptake, HIV infection, and cell surface HIV envelope expression, and perform paired non-parametric tests (paired Wilcoxon) to analyze these associations across independent experiments.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/31032394/
+
+
+
+. 2019 Jan 9:11:61-66.
+doi: 10.1016/j.dadm.2018.11.002. eCollection 2019 Dec.
+Complement protein levels in plasma astrocyte-derived exosomes are abnormal in conversion from mild cognitive impairment to Alzheimer's disease dementia
+Charisse N Winston  1 , Edward J Goetzl  2   3 , Janice B Schwartz  2   3   4 , Fanny M Elahi  5 , Robert A Rissman  1
+Affiliations
+
+    PMID: 31032394 PMCID: PMC6477776 DOI: 10.1016/j.dadm.2018.11.002 
+
+Abstract
+
+Introduction: Levels of complement proteins (CPs) in plasma astrocyte-derived exosomes (ADEs) that are abnormal in Alzheimer's disease (AD) have not been assessed in mild cognitive impairment (MCI).
+
+Methods: Participants (n = 20 per group) had either MCI converting to dementia within 3 years (MCIC), MCI remaining stable over 3 years (MCIS), Alzheimer's disease, or were controls. CPs of ADEs isolated from plasmas by anti-human glutamine aspartate transporter antibody absorption were quantified by ELISAs.
+
+Results: ADE levels of C1q and C4b of the classical pathway, factor D and fragment Bb of the alternative pathway, and C5b, C3b, and C5b-C9 of both pathways were significantly higher in patients with MCIC than those with MCIS. ADE levels of inhibitory CPs decay-accelerating factor, CD46, CD59, and type 1 complement receptor were significantly lower in patients with MCIC than those with MCIS.
+
+Discussion: ADE CPs are components of neurotoxic neuroinflammation that may be predictive biomarkers of MCI conversion to Alzheimer's disease.
+
+Keywords: Biomarkers; Cognitive loss; Complement regulators; Neurodegeneration; Neuroinflammation.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://raffailab.ucsf.edu/research/macrophage-exosomes-in-diabetic-atherosclerosis-full.aspx
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://rnajc.ucsf.edu/sites/rnajc.ucsf.edu/files/Noncoding%20RNA%20transcription%20targets%20AID%20to%20divergently%20transcribed%20loci%20in%20B%20cells.pdf
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://orthosurgery.ucsf.edu/sites/default/files/2023-05/300PM%20BAHNEY%20-%20OTI%202023_Cell-based%20therapies%20-%20how%20are%20they%20being%20optimized.pdf
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+Epigenetic drug discovery is an expanding field focused on the development of therapeutic strategies that modulate epigenetic systems, which are crucial for regulating gene expression and have been implicated in various diseases. Here's a summary of the key insights from recent research:
+
+    Exploration of the Epigenetic Landscape: Epigenetic modification plays a significant role in disease development, making the modulation of epigenetic systems a promising therapeutic strategy. The drug discovery process involves identifying druggable targets among epigenetic enzymes, repurposing existing drugs, and exploring orphan target proteins with limited active modulators. Current research promises a future with novel drugs targeting multifactorial diseases (Prachayasittikul et al., 2017).
+    Cancer Therapy Focus: Over 50% of human cancers have mutations in chromatin organization enzymes, making the epigenome a key target for therapy. The combination of epigenetic drugs with other treatments is seen as a future success direction, with several drugs already approved by the FDA (Jones, Issa, & Baylin, 2016).
+    Future Strategies: There's a shift towards targeting nonenzymatic chromatin regulators and multiprotein complexes, beyond single enzymes. This includes the use of small molecule inhibitors and chemical probes derived from cell-based screening, indicating a broadening of the drug discovery approach (Drewes, 2012).
+    Mainstream Oncology Integration: The field of cancer epigenetics has rapidly advanced, with the development of biomarkers and pharmacological strategies based on epigenetic mechanisms. This includes the approval of the first epigenetic drugs for leukemia and lymphoma treatment, showcasing the integration of epigenetic therapies into mainstream oncology (Rodríguez-Paredes & Esteller, 2011).
+
+Conclusion: Epigenetic drug discovery represents a promising avenue for addressing various diseases, particularly cancer, by targeting the epigenetic modifications that regulate gene expression. The field is evolving from focusing solely on enzyme modulation to exploring a broader range of targets, including nonenzymatic regulators and multiprotein complexes. This holistic approach holds the potential for developing more effective therapies for complex diseases.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/22392809/
+
+
+Review
+J Biomol Screen
+
+. 2012 Jun;17(5):555-71.
+doi: 10.1177/1087057112437763. Epub 2012 Mar 5.
+Perspectives on the discovery of small-molecule modulators for epigenetic processes
+Quinn Lu  1 , Amy M Quinn, Mehul P Patel, Simon F Semus, Alan P Graves, Deepak Bandyopadhyay, Andrew J Pope, Sara H Thrall
+Affiliations
+
+    PMID: 22392809 DOI: 10.1177/1087057112437763 
+
+Abstract
+
+Epigenetic gene regulation is a critical process controlling differentiation and development, the malfunction of which may underpin a variety of diseases. In this article, we review the current landscape of small-molecule epigenetic modulators including drugs on the market, key compounds in clinical trials, and chemical probes being used in epigenetic mechanistic studies. Hit identification strategies for the discovery of small-molecule epigenetic modulators are summarized with respect to writers, erasers, and readers of histone marks. Perspectives are provided on opportunities for new hit discovery approaches, some of which may define the next generation of therapeutic intervention strategies for epigenetic processes.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/28276705/
+
+ Review
+Expert Opin Drug Discov
+
+. 2017 Apr;12(4):345-362.
+doi: 10.1080/17460441.2017.1295954. Epub 2017 Feb 28.
+Exploring the epigenetic drug discovery landscape
+Veda Prachayasittikul  1 , Philip Prathipati  2 , Reny Pratiwi  1 , Chuleeporn Phanus-Umporn  1 , Aijaz Ahmad Malik  1 , Nalini Schaduangrat  1 , Kanokwan Seenprachawong  3 , Prapimpun Wongchitrat  4 , Aungkura Supokawej  3 , Virapong Prachayasittikul  5 , Jarl E S Wikberg  6 , Chanin Nantasenamat  1
+Affiliations
+
+    PMID: 28276705 DOI: 10.1080/17460441.2017.1295954 
+
+Abstract
+
+Epigenetic modification has been implicated in a wide range of diseases and the ability to modulate such systems is a lucrative therapeutic strategy in drug discovery. Areas covered: This article focuses on the concepts and drug discovery aspects of epigenomics. This is achieved by providing a survey of the following concepts: (i) factors influencing epigenetics, (ii) diseases arising from epigenetics, (iii) epigenetic enzymes as druggable targets along with coverage of existing FDA-approved drugs and pharmacological agents, and (iv) drug repurposing/repositioning as a means for rapid discovery of pharmacological agents targeting epigenetics. Expert opinion: Despite significant interests in targeting epigenetic modifiers as a therapeutic route, certain classes of target proteins are heavily studied while some are less characterized. Thus, such orphan target proteins are not yet druggable with limited report of active modulators. Current research points towards a great future with novel drugs directed to the many complex multifactorial diseases of humans, which are still often poorly understood and difficult to treat.
+
+Keywords: Epigenomics; bioinformatics; cheminformatics; chemogenomics; drug discovery; drugs; epigenetics; proteochemometrics.
+
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/18829568/
+
+
+Cancer Res
+
+. 2008 Oct 1;68(19):8094-103.
+doi: 10.1158/0008-5472.CAN-07-6208.
+Abnormal DNA methylation of CD133 in colorectal and glioblastoma tumors
+Joo Mi Yi  1 , Hsing-Chen Tsai, Sabine C Glöckner, Steven Lin, Joyce E Ohm, Hari Easwaran, C David James, Joseph F Costello, Gregory Riggins, Charles G Eberhart, John Laterra, Angelo L Vescovi, Nita Ahuja, James G Herman, Kornel E Schuebel, Stephen B Baylin
+Affiliations
+
+    PMID: 18829568 PMCID: PMC2744404 DOI: 10.1158/0008-5472.CAN-07-6208 
+
+Abstract
+
+Much recent effort has focused on identifying and characterizing cellular markers that distinguish tumor propagating cells (TPC) from more differentiated progeny. We report here an unusual promoter DNA methylation pattern for one such marker, the cell surface antigen CD133 (Prominin 1). This protein has been extensively used to enrich putative cancer propagating stem-like cell populations in epithelial tumors and, especially, glioblastomas. We find that, within individual cell lines of cultured colon cancers and glioblastomas, the promoter CpG island of CD133 is DNA methylated, primarily, in cells with absent or low expression of the marker protein, whereas lack of such methylation is evident in purely CD133+ cells. Differential histone modification marks of active versus repressed genes accompany these DNA methylation changes. This heterogeneous CpG island DNA methylation status in the tumors is unusual in that other DNA hypermethylated genes tested in such cultures preserve their methylation patterns between separated CD133+ and CD133- cell populations. Furthermore, the CD133 DNA methylation seems to constitute an abnormal promoter signature because it is not found in normal brain and colon but only in cultured and primary tumors. Thus, the DNA methylation is imposed on the transition between the active versus repressed transcription state for CD133 only in tumors. Our findings provide additional insight for the dynamics of aberrant DNA methylation associated with aberrant gene silencing in human tumors.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+https://pubmed.ncbi.nlm.nih.gov/15059914/
+
+
+
+Cancer Res
+
+. 2004 Apr 1;64(7):2572-9.
+doi: 10.1158/0008-5472.can-03-3631.
+Distribution of liposomes into brain and rat brain tumor models by convection-enhanced delivery monitored with magnetic resonance imaging
+Ryuta Saito  1 , John R Bringas, Tracy R McKnight, Michael F Wendland, Christoph Mamot, Daryl C Drummond, Dmitri B Kirpotin, John W Park, Mitchel S Berger, Krys S Bankiewicz
+Affiliations
+
+    PMID: 15059914 DOI: 10.1158/0008-5472.can-03-3631 
+
+Abstract
+
+Although liposomes have been used as a vehicle for delivery of therapeutic agents in oncology, their efficacy in targeting brain tumors has been limited due to poor penetration through the blood-brain barrier. Because convection-enhanced delivery (CED) of liposomes may improve the therapeutic index for targeting brain tumors, we conducted a three-stage study: stage 1 established the feasibility of using in vivo magnetic resonance imaging (MRI) to confirm adequate liposomal distribution within targeted regions in normal rat brain. Liposomes colabeled with gadolinium (Gd) and a fluorescent indicator, 1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine-5,5'-disulfonic acid [DiI-DS; formally DiIC(18)(3)-DS], were administered by CED into striatal regions. The minimum concentration of Gd needed for monitoring, correlation of infused volume with distribution volume, clearance of infused liposome containing Gd and DiI-DS (Lip/Gd/DiI-DS), and potential local toxicity were evaluated. After determination of adequate conditions for MRI detection in normal brain, stage 2 evaluated the feasibility of in vivo MRI monitoring of liposomal distribution in C6 and 9L-2 rat glioma models. In both models, the distribution of Lip/Gd/DiI-DS covering the tumor mass was well defined and monitored with MRI. Stage 3 was designed to develop a clinically relevant treatment strategy in the 9L-2 model by infusing liposome containing Gd (Lip/Gd), prepared in the same size as Lip/Gd/DiI-DS, with Doxil, a liposomal drug of similar size used to treat several cancers. MRI detection of Lip/Gd coadministered with Doxil provided optimum CED parameters for complete coverage of 9L-2 tumors. By permitting in vivo monitoring of therapeutic distribution in brain tumors, this technique optimizes local drug delivery and may provide a basis for clinical applications in the treatment of malignant glioma.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/9751630/
+
+
+Cancer Res
+
+. 1998 Sep 15;58(18):4168-72.
+Telomerase activity in human development is regulated by human telomerase reverse transcriptase (hTERT) transcription and by alternate splicing of hTERT transcripts
+G A Ulaner  1 , J F Hu, T H Vu, L C Giudice, A R Hoffman
+Affiliations
+
+    PMID: 9751630 
+
+
+Abstract
+
+The correlation between telomerase activity, telomere lengths, and cellular replicative capacity has led to the theory that maintenance of telomere lengths by telomerase acts as a molecular clock to control replicative capacity and senescence. Regulation of this molecular clock may have applications in the treatment of cell aging and tumorigenesis, although little is presently known about the regulation of telomerase activity. To investigate possible mechanisms of regulation, we examined telomerase activity and the expression of the human telomerase RNA subunit and the human telomerase reverse transcriptase protein (hTERT) during human fetal heart, liver, and kidney development. The human telomerase RNA subunit is expressed in all three tissues at all gestational ages examined. hTERT expression correlates with telomerase activity in the liver, where both are expressed at all ages surveyed, and in the heart, where both are present until the 11th gestational week but not thereafter. However, although telomerase activity in the kidney is suppressed after the 15th gestational week, the hTERT transcript can be detected until at least the 21st week. Reverse transcription-PCR using primers within the reverse transcriptase domain of hTERT show the presence of multiple alternately spliced transcripts in these tissues, corresponding to full-length message as well as spliced messages with critical reverse transcriptase motifs deleted. Of note, telomerase activity in the kidney is only present at those gestational ages when full-length hTERT message is expressed (until approximately week 15), with spliced transcripts continuing to be expressed at later stages of development. The tissue-specific and gestational-age dependent expression of hTERT mRNA seen in human development suggests the presence of at least two regulatory mechanisms controlling the activity of telomerase: transcriptional control of the hTERT gene and alternate splicing of hTERT transcripts.
+
+___________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
