@@ -1,0 +1,234 @@
+https://consensus.app/papers/exosomes-food-health-benefits-clinical-relevance-munir/d4cfb4b4332e5209a26f29312f1935ab/?utm_source=chatgpt
+
+
+Exosomes in Food: Health Benefits and Clinical Relevance in Diseases.
+
+Javaria Munir, Mihye Lee, S. Ryu
+4 déc. 2019
+
+ Food-derived exosomes may play a role in alleviating diseases and modulating gut microbiota, potentially offering biocompatible vehicles for anti-cancer drug delivery.
+
+Abstract
+
+Exosomes are membrane-bound organelles generally secreted by eukaryotic cells that contain mRNAs, microRNAs, and/or proteins. However, recent studies have reported the isolation of these particles from foods such as lemon, ginger, and milk. Owing to their absorption by intestinal cells and further travel via the bloodstream, exosomes can reach distant organs and affect overall health in both infants and adults. The potential role of food-derived exosomes (FDEs) in alleviating diseases, as well as in modulating the gut microbiota has been shown, but the underlying mechanism is still unknown. Moreover, exosomes may provide biocompatible vehicles for the delivery of anti-cancer drugs, such as doxorubicin. Thus, exosomes may allow medical nutritionists and clinicians to develop safe and targeted therapies for the treatment of various pathologies. The present review introduces FDEs and their contents, highlights their role in disease and infant/adult health, and explores their potential use as therapeutic agents.
+
+
+_________________________
+
+
+Preservation of exosomes at room temperature using lyophilization
+
+Chonlada Charoenviriyakul, Yuki Takahashi, M. Nishikawa
+1 déc. 2018
+
+Lyophilization with trehalose effectively preserves exosomes at room temperature for various applications, preserving their activity for up to 4 weeks.
+
+Abstract
+
+&NA; The application of exosomes as a therapeutic reagent or drug delivery vehicle can be expanded by developing a method to preserve exosomes. Although exosomes are generally stored at −80 °C, this temperature is not suitable for their handling or transportation and, therefore, other storage methods are desirable. Lyophilization is a promising storage method that can be used to preserve various substances at room temperature. In this study, we sought to develop a room temperature preservation method for exosomes using lyophilization and compared the properties of the lyophilized exosomes with ones stored at −80 °C. Lyophilization without cryoprotectant resulted in the aggregation of B16BL6 melanoma‐derived exosomes, while the addition of trehalose, a cryoprotectant, prevented aggregation during lyophilization. PAGE analysis revealed that the proteins and RNA of exosomes were protected following lyophilization in the presence of trehalose. Lyophilization had little effect on the pharmacokinetics of Gaussia luciferase (gLuc)‐labeled exosomes after an intravenous injection into mice. Moreover, it was found that lyophilized exosomes retained the activity of loaded gLuc and immunostimulatory CpG DNA for approximately 4 weeks even when stored at 25 °C. In conclusion, lyophilization with trehalose is an effective method for the storage of exosomes for various applications.
+
+
+_____________________________
+
+
+Exosomes and Their Noncoding RNA Cargo Are Emerging as New Modulators for Diabetes Mellitus
+
+Wenguang Chang, Jianxun Wang
+1 août 2019
+
+
+Exosomes and their noncoding RNA cargo, particularly microRNAs and lncRNAs, play important roles in diabetes development and communication between organs, offering potential for new treatments and biomarkers.
+
+Abstract
+
+Diabetes belongs to a group of metabolic disorders characterized by long term high blood glucose levels due to either inadequate production of insulin (Type 1 diabetes, T1DM) or poor response of the recipient cell to insulin (Type 2 diabetes, T2DM). Organ dysfunctions are the main causes of morbidity and mortality due to high glucose levels. Understanding the mechanisms of organ crosstalk may help us improve our basic knowledge and find novel strategies to better treat the disease. Exosomes are part of a newly emerged research area and have attracted a great deal of attention for their capacity to regulate communications between cells. In conditions of diabetes, exosomes play important roles in the pathological processes in both T1DM and T2DM, such as connecting the immune cell response to pancreatic tissue injury, as well as adipocyte stimulation to insulin resistance of skeletal muscle or liver. Furthermore, in recent years, nucleic acids containing exosomes—especially microRNAs (miRNAs) and long noncoding RNAs (lncRNAs)—have been shown to mainly regulate communications between organs in pathological processes of diabetes, including influencing metabolic signals and insulin signals in target tissues, affecting cell viability, and modulating inflammatory pancreatic cells. Moreover, exosome miRNAs show promise in their use as biomarkers or in treatments for diabetes and diabetic complications. Thus, this paper summarizes the recent work on exosomes related to diabetes as well as the roles of exosomal miRNAs and lncRNAs in diabetic pathology and diagnosis in order to help us better understand the exact roles of exosomes in diabetes development.
+
+
+_______________________________
+
+
+Human Mesenchymal Stem Cell Derived Exosomes Alleviate Type 2 Diabetes Mellitus by Reversing Peripheral Insulin Resistance and Relieving β-Cell Destruction.
+
+Yaoxiang Sun, Hui Shi, Siqi Yin
+27 juil. 2018
+
+
+ Exosomes from human umbilical cord MSC can alleviate type 2 diabetes by reversing peripheral insulin resistance and reducing -cell destruction, offering an alternative treatment approach.
+
+Abstract
+
+Exosomes are nanosized extracellular vesicles (EVs) that show great promise in tissue regeneration and injury repair as mesenchymal stem cell (MSC). MSC has been shown to alleviate diabetes mellitus (DM) in both animal models and clinical trials. In this study, we aimed to investigate whether exosomes from human umbilical cord MSC (hucMSC-ex) have a therapeutic effect on type 2 DM (T2DM). We established a rat model of T2DM using a high-fat diet and streptozotocin (STZ). We found that the intravenous injection of hucMSC-ex reduced blood glucose levels as a main paracrine approach of MSC. HucMSC-ex partially reversed insulin resistance in T2DM indirectly to accelerate glucose metabolism. HucMSC-ex restored the phosphorylation (tyrosine site) of the insulin receptor substrate 1 and protein kinase B in T2DM, promoted expression and membrane translocation of glucose transporter 4 in muscle, and increased storage of glycogen in the liver to maintain glucose homeostasis. HucMSC-ex inhibited STZ-induced β-cell apoptosis to restore the insulin-secreting function of T2DM. Taken together, exosomes from hucMSC can alleviate T2DM by reversing peripheral insulin resistance and relieving β-cell destruction, providing an alternative approach for T2DM treatment.
+
+
+___________________________________
+
+
+Exosomal MicroRNA-181a Derived From Mesenchymal Stem Cells Improves Gut Microbiota Composition, Barrier Function, and Inflammatory Status in an Experimental Colitis Model
+
+L. Gu, F. Ren, Xianrui Fang
+24 juin 2021
+
+
+MSC-derived exosomal miR-181a may alleviate experimental colitis by promoting intestinal barrier function, acting as an anti-inflammatory and gut microbiota modulator.
+
+Abstract
+
+Background: Mesenchymal stem cell (MSC)-derived exosomes (Exos) are recently proved to be a promising candidate for ulcerative colitis (UC), but the mechanism remains unclear. We investigated the effects of MSC-derived exosomal microRNA-181a (miR-181a) on gut microbiota, immune responses, and intestinal barrier function in UC. Methods: Human bone marrow MSC-derived Exos were extracted and identified via transmission electron microscopy (TEM), Nanoparticle Tracking Analysis (NTA), and Western blotting. Dextran sodium sulfate (DSS)-induced colitis model and lipopolysaccharide (LPS)-induced human colonic epithelial cell (HCOEPIC) model were established to determine the effect of MSC-Exos on gut microbiota, immune responses, and intestinal barrier function in vivo and in vitro. The relationship between miR-181a and UC was analyzed using the Gene Expression Omnibus (GEO) database. MSC-miR-181-inhibitor was used to reveal the role of exosomal miR-181a in DSS-induced colitis. Results: TEM and NTA results showed that Exos of a diameter of about 100 nm with the round and oval vesicle-like structure were successfully extracted. The expressions of the CD63, CD81, and TSG101 proteins were positive in these Exos. After MSC-Exo treatment, the colon length in colitis mice increased; colon inflammatory injury decreased; TNF-α, IL-6, IL-1β, IL-17, and IL-18 levels decreased; and Claudin-1, ZO-1, and IκB levels increased. In addition, the structure of the gut microbiota in DSS-induced colitis mice was changed by MSC-Exos. MSC-Exos showed antiapoptotic effects on LPS-induced HCOEPIC. The protective effects decreased significantly by treatment with MSC-Exos interfered with miR-181a inhibitor in vivo and in vitro. Conclusion: MSC-derived exosomal miR-181a could alleviate experimental colitis by promoting intestinal barrier function. It exerted anti-inflammatory function and affected the gut microbiota. This indicated that MSC exosomal miR-181a may exhibit potential as a disease-modifying drug for UC.
+
+
+__________________________________
+
+
+
+Adipocyte Exosomes Promote Melanoma Aggressiveness through Fatty Acid Oxidation: A Novel Mechanism Linking Obesity and Cancer.
+
+I. Lazar, E. Clement, S. Dauvillier
+15 juil. 2016
+
+
+
+Adipocyte exosomes promote melanoma aggressiveness through increased fatty acid oxidation, potentially explaining why obese melanoma patients have a poorer prognosis than nonobese counterparts.
+
+Abstract
+
+Malignant progression results from a dynamic cross-talk between stromal and cancer cells. Recent evidence suggests that this cross-talk is mediated to a significant extent by exosomes, nanovesicles secreted by most cell types and which allow the transfer of proteins, lipids, and nucleic acids between cells. Adipocytes are a major component of several tumor microenvironments, including that of invasive melanoma, where cells have migrated to the adipocyte-rich hypodermic layer of the skin. We show that adipocytes secrete exosomes in abundance, which are then taken up by tumor cells, leading to increased migration and invasion. Using mass spectrometry, we analyzed the proteome of adipocyte exosomes. Interestingly, these vesicles carry proteins implicated in fatty acid oxidation (FAO), a feature highly specific to adipocyte exosomes. We further show that, in the presence of adipocyte exosomes, FAO is increased in melanoma cells. Inhibition of this metabolic pathway completely abrogates the exosome-mediated increase in migration. Moreover, in obese mice and humans, both the number of exosomes secreted by adipocytes as well as their effect on FAO-dependent cell migration are amplified. These observations might in part explain why obese melanoma patients have a poorer prognosis than their nonobese counterparts. Cancer Res; 76(14); 4051-7. ©2016 AACR.
+
+__________________________________
+
+
+Adiponectin is partially associated with exosomes in mouse serum.
+
+Worrawalan Phoonsawat, A. Aoki-Yoshida, Takeshi Tsuruta
+6 juin 2014
+
+
+Adiponectin is partially associated with exosomes in mouse serum, suggesting it as a marker for exosomes released from adipocytes in vivo.
+
+Abstract
+
+Exosomes are membrane vesicles 30-120 nm in diameter that are released by many cell types and carry a cargo of proteins, lipids, mRNA, and microRNA. Cultured adipocytes reportedly release exosomes that may play a role in cell-to-cell communication during the development of metabolic diseases. However, the characteristics and function of exosomes released from adipocytes in vivo remain to be elucidated. Clearly, adipocyte-derived exosomes could exist in the circulation and may be associated with adipocyte-specific proteins such as adipocytokines. We isolated exosomes from serum of mice by differential centrifugation and analyzed adiponectin, leptin, and resistin in the exosome fraction. Western blotting detected adiponectin but no leptin and only trace amounts of resistin in the exosome fraction. The adiponectin signal in the exosome fraction was decreased by proteinase K treatment and completely quenched by a combination of proteinase K and Triton X-100. Quantitative ELISA showed that the exosome fraction contains considerable amounts of adiponectin, but not leptin or resistin. The concentration of adiponectin in the serum and the ratio of adiponectin to total protein in the exosome fraction were lower in obese mice than in lean mice. These results suggest that a portion of adiponectin exists as a transmembrane protein in the exosomes in mouse serum. We propose adiponectin as a marker of exosomes released from adipocytes in vivo.
+
+
+__________________________________
+
+
+
+Exosomal proteins constitute an essential part of the human adipose tissue secretome.
+
+S. Hartwig, Elisabetta de Filippo, S. Göddeke
+1 déc. 2019
+
+
+
+Key Takeaway: Isolating exosomes from human adipocytes reveals their importance in signaling and interorgan crosstalk, with common proteins affecting fibrotic processes and inflammation, and specific proteins focusing on signaling pathways and membrane-mediated processes.
+
+Abstract
+
+Adipose tissue is an endocrine organ, secreting various adipokines, either directly or via extracellular vesicles, including exosomes. Exosomes are vesicles of 40-150 nm size that represent a novel concept of biomolecule release. We purified exosomes from isolated primary human preadipocytes differentiated to mature adipocytes. The analyses of these exosomal preparations by LC-MS identified 884 proteins, so called exoadipokines. The comparison of exoadipokines with previously identified human exosome-associated proteins in ExoCarta database show an overlap of 817 proteins, but also revealed 67 proteins not assigned to human exosomes, yet. We further compared all exoadipokines to our previously reported reference secretome of human adipose tissue (http://diabesityprot.org/), finding 212 common proteins, whereas 672 proteins were specific for the exosomal fraction. Bioinformatic analyses revealed that the 212 common proteins can be assigned to all major functions of adipose tissue secreted proteins e.g. molecules involved in fibrotic processes or inflammation. In contrast, the exosome-specific proteins were rather assigned to signaling pathways and membrane-mediated processes. In conclusion, the isolation of exosomes allows to further specify the functionality of adipokines and exoadipokines as part of the adipocyte secretome in signaling and interorgan crosstalk.
+
+
+__________________________________
+
+
+
+SNHG9, delivered by adipocyte-derived exosomes, alleviates inflammation and apoptosis of endothelial cells through suppressing TRADD expression.
+
+Yanbin Song, Hua Li, Xiaoyue Ren
+30 janv. 2020
+
+
+SNHG9, delivered by adipocyte-derived exosomes, can prevent endothelial dysfunction in obese patients by suppressing inflammation and apoptosis through suppressing TRADD expression.
+
+Abstract
+
+Exosomes are membrane-derived vesicles and play a critical role in cell signaling by transferring RNAs and proteins to target cells through fusion with the cell membrane. Long non-coding RNA-small nucleolar RNA host gene 9 (lncRNA-SNHG9) was proven to be an important element in lncRNA-mRNA interaction networks during adipocyte differentiation, suggesting its potential involvement in the development of obesity, an important risk factor of cardiovascular and cerebrovascular endothelial dysfunction. However, the role of lncRNA-SNHG9 within the exosome in endothelial dysfunction of obese patients is largely unknown. In this study, we proved that adipocytes-derived exosomal SNHG9 were downregulated in obese persons and further decreased in obese individuals with endothelial dysfunction. Functional experimentations demonstrated that adipocytes-derived exosomal SNHG9 alleviated inflammation and apoptosis in endothelial cells. Bioinformatic analysis revealed that there was a potential interaction between SNHG9 and the TNF receptor type 1-associated death domain protein (TRADD) mRNA. Then, RNA-binding protein immunoprecipitation assay based on Ago2 antibody and ribonuclease protection assay demonstrated that exosomal SNHG9 directly bound to a specific region in TRADD mRNA sequence and formed an RNA dimeric inducible silencing complex. Moreover, knockdown of TRADD markedly inhibited inflammation and apoptosis in human umbilical vein endothelial cells (HUVECs), whereas overexpression of TRADD dramatically neutralized the protective effect of exosomal SNHG9 on epithelial dysfunction. Therefore, SNHG9 could prevent endothelial dysfunction in obese patients by suppressing inflammation and apoptosis, indicating that SNHG9 may be a potential therapeutic target for obese patients with endothelial dysfunction.
+
+__________________________________
+
+
+
+Lipid synthesis is promoted by hypoxic adipocyte-derived exosomes in 3T3-L1 cells.
+
+S. Sano, Y. Izumi, Takehiro Yamaguchi
+7 mars 2014
+
+
+Hypoxic adipocyte-derived exosomes promote lipid accumulation in 3T3-L1 cells by enhancing enzymes related to de novo lipogenesis.
+
+Abstract
+
+Hypoxia occurs within adipose tissues as a result of adipocyte hypertrophy and is associated with adipocyte dysfunction in obesity. Here, we examined whether hypoxia affects the characteristics of adipocyte-derived exosomes. Exosomes are nanovesicles secreted from most cell types as an information carrier between donor and recipient cells, containing a variety of proteins as well as genetic materials. Cultured differentiated 3T3-L1 adipocytes were exposed to hypoxic conditions and the protein content of the exosomes produced from these cells was compared by quantitative proteomic analysis. A total of 231 proteins were identified in the adipocyte-derived exosomes. Some of these proteins showed altered expression levels under hypoxic conditions. These results were confirmed by immunoblot analysis. Especially, hypoxic adipocyte-released exosomes were enriched in enzymes related to de novo lipogenesis such as acetyl-CoA carboxylase, glucose-6-phosphate dehydrogenase, and fatty acid synthase (FASN). The total amount of proteins secreted from exosomes increased by 3-4-fold under hypoxic conditions. Moreover, hypoxia-derived exosomes promoted lipid accumulation in recipient 3T3-L1 adipocytes, compared with those produced under normoxic conditions. FASN levels were increased in undifferentiated 3T3-L1 cells treated with FASN-containing hypoxic adipocytes-derived exosomes. This is a study to characterize the proteomic profiles of adipocyte-derived exosomes. Exosomal proteins derived from hypoxic adipocytes may affect lipogenic activity in neighboring preadipocytes and adipocytes.
+
+
+
+__________________________________
+
+
+H3K36 methylation state and associated silencing mechanisms
+
+Shota Suzuki, Y. Murakami, S. Takahata
+1 janv. 2017
+
+
+H3K36 methylation in RNA polymerase 2 C-terminal domain is linked to a novel silencing mechanism involving exosome-dependent RNA processing.
+
+Abstract
+
+ABSTRACT Epigenetic marks determine cell fate via numerous reader proteins. H3K36 methylation is a common epigenetic mark that is thought to be associated with the activities of the RNA polymerase 2 C-terminal domain. We discuss a novel silencing mechanism regulated by Set2-dependent H3K36 methylation that involves exosome-dependent RNA processing.
+
+
+__________________________________
+
+
+
+Epigenetic changes in Alzheimer's disease: Decrements in DNA methylation
+
+D. Mastroeni, A. Grover, Elaine Delvaux
+1 déc. 2010
+
+
+Decreasing DNA methylation in Alzheimer's disease-vulnerable neurons suggests epigenetic dysfunction in the brain's memory system.
+
+Abstract
+
+DNA methylation is a vital component of the epigenetic machinery that orchestrates changes in multiple genes and helps regulate gene expression in all known vertebrates. We evaluated immunoreactivity for two markers of DNA methylation and eight methylation maintenance factors in entorhinal cortex layer II, a region exhibiting substantial Alzheimer's disease (AD) pathology in which expression changes have been reported for a wide variety of genes. We show, for the first time, neuronal immunoreactivity for all 10 of the epigenetic markers and factors, with highly significant decrements in AD cases. These decrements were particularly marked in PHF1/PS396 immunoreactive, neurofibrillary tangle-bearing neurons. In addition, two of the DNA methylation maintenance factors, DNMT1 and MBD2, have been reported also to interact with ribosomal RNAs and ribosome synthesis. Consistent with these findings, DNMT1 and MBD2, as well as p66α, exhibited punctate cytoplasmic immunoreactivity that co-localized with the ribosome markers RPL26 and 5.8s rRNA in ND neurons. By contrast, AD neurons generally lacked such staining, and there was a qualitative decrease in RPL26 and 5.8s rRNA immunoreactivity. Collectively, these findings suggest epigenetic dysfunction in AD-vulnerable neurons.
+
+
+
+__________________________________
+
+
+Nutrition and epigenetics: an interplay of dietary methyl donors, one-carbon metabolism and DNA methylation.
+
+Olivia S. Anderson, Karilyn E. Sant, D. Dolinoy
+1 août 2012
+
+Nutritional factors, particularly micronutrient intake, influence DNA methylation, which can alter gene expression and increase disease risk.
+
+Abstract
+
+DNA methylation is the most extensively studied mechanism of epigenetic gene regulation. Increasing evidence indicates that DNA methylation is labile in response to nutritional and environmental influences. Alterations in DNA methylation profiles can lead to changes in gene expression, resulting in diverse phenotypes with the potential for increased disease risk. The primary methyl donor for DNA methylation is S-adenosylmethionine (SAM), a species generated in the cyclical cellular process called one-carbon metabolism. One-carbon metabolism is catalyzed by several enzymes in the presence of dietary micronutrients, including folate, choline, betaine and other B vitamins. For this reason, nutrition status, particularly micronutrient intake, has been a focal point when investigating epigenetic mechanisms. Although animal evidence linking nutrition and DNA methylation is fairly extensive, epidemiological evidence is less comprehensive. This review serves to integrate studies of the animal in vivo with human epidemiological data pertaining to nutritional regulation of DNA methylation and to further identify areas in which current knowledge is limited.
+
+__________________________________
+
+
+Exosome-Mediated Response to Cancer Therapy: Modulation of Epigenetic Machinery
+
+M. I. Khan, Reem K M E Alsayed, H. Choudhry
+1 juin 2022
+
+
+Exosomes play a crucial role in modulating cancer cell sensitivity to various therapies by affecting epigenetic modifications, potentially offering new therapeutic strategies to combat drug resistance.
+
+Abstract
+
+Exosomes, the extracellular vesicles produced in the endosomal compartments, facilitate the transportation of proteins as well as nucleic acids. Epigenetic modifications are now considered important for fine-tuning the response of cancer cells to various therapies, and the acquired resistance against targeted therapies often involves dysregulated epigenetic modifications. Depending on the constitution of their cargo, exosomes can affect several epigenetic events, thus impacting post-transcriptional regulations. Thus, a role of exosomes as facilitators of epigenetic modifications has come under increased scrutiny in recent years. Exosomes can deliver methyltransferases to recipient cells and, more importantly, non-coding RNAs, particularly microRNAs (miRNAs), represent an important exosome cargo that can affect the expression of several oncogenes and tumor suppressors, with a resulting impact on cancer therapy resistance. Exosomes often harbor other non-coding RNAs, such as long non-coding RNAs and circular RNAs that support resistance. The exosome-mediated transfer of all this cargo between cancer cells and their surrounding cells, especially tumor-associated macrophages and cancer-associated fibroblasts, has a profound effect on the sensitivity of cancer cells to several chemotherapeutics. This review focuses on the exosome-induced modulation of epigenetic events with resulting impact on sensitivity of cancer cells to various therapies, such as, tamoxifen, cisplatin, gemcitabine and tyrosine kinase inhibitors. A better understanding of the mechanisms by which exosomes can modulate response to therapy in cancer cells is critical for the development of novel therapeutic strategies to target cancer drug resistance.
+
+
+
+
+
+
+
+
+
