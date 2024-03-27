@@ -1,0 +1,371 @@
+https://pubmed.ncbi.nlm.nih.gov/32266160/
+
+ Review
+Front Cell Infect Microbiol
+
+. 2020 Mar 24:10:98.
+doi: 10.3389/fcimb.2020.00098. eCollection 2020.
+Fecal Microbiota Transplantation in Neurological Disorders
+Karuna E W Vendrik  1   2   3 , Rogier E Ooijevaar  2   4 , Pieter R C de Jong  5 , Jon D Laman  6 , Bob W van Oosten  7 , Jacobus J van Hilten  5 , Quinten R Ducarmon  1   8 , Josbert J Keller  2   9   10 , Eduard J Kuijper  1   2   3   8 , Maria Fiorella Contarino  5   11
+Affiliations
+
+    PMID: 32266160 PMCID: PMC7105733 DOI: 10.3389/fcimb.2020.00098 
+
+Abstract
+
+Background: Several studies suggested an important role of the gut microbiota  in the pathophysiology of neurological disorders, implying that alteration of  the gut microbiota might serve as a treatment strategy.
+Fecal microbiota transplantation (FMT) is currently the most effective gut microbiota intervention and an accepted treatment for recurrent    Clostridioides difficile infections. To evaluate indications of
+FMT for patients with neurological disorders, we summarized the     available literature on FMT. In addition, we provide suggestions 
+for future directions. Methods: In July 2019, five main databases  were searched for studies and case descriptions on FMT in neurological
+disorders in humans or animal models. In addition, the ClinicalTrials.gov website was consulted for registered planned and ongoing trials.
+Results: Of 541 identified studies, 34 were included in the analysis. Clinical trials with FMT have been performed in patients with
+autism spectrum disorder and showed beneficial effects on neurological symptoms. For multiple sclerosis and Parkinson's disease, several animal studies 
+suggested a positive effect of FMT, supported by some human case reports. For epilepsy, Tourette syndrome, and diabetic neuropathy
+some studies suggested a beneficial effect of FMT, but evidence was restricted to case reports and limited numbers
+of animal studies. For stroke, Alzheimer's disease and Guillain-Barré syndrome only studies with animal models
+were identified. These studies suggested a potential beneficial effect of healthy donor FMT. In contrast,
+one study with an animal model for stroke showed increased mortality after FMT. For Guillain-Barré
+only one study was identified. Whether positive findings from animal studies can be confirmed in
+the treatment of human diseases awaits to be seen. Several trials with FMT as treatment for the above mentioned neurological disorders are planned or ongoing, as well as for amyotrophic lateral sclerosis. 
+
+
+Conclusions: Preliminary literature suggests that FMT may be a promising treatment option for several neurological disorders.
+However, available evidence is still scanty and some contrasting results were observed. A limited number of studies in humans have
+been performed or are ongoing, while for some disorders only animal experiments have been conducted.
+Large double-blinded randomized controlled trials are needed to further elucidate the effect of FMT in neurological disorders.
+
+Keywords: Parkinson's disease; autism spectrum disorder; autoimmunity; fecal microbiota transplantation; gastrointestinal microbiome; gut-brain axis; nervous system diseases; neurodegenerative.
+_______
+https://pubmed.ncbi.nlm.nih.gov/31103935/
+
+J Neuroimmunol
+
+. 2019 Aug 15:333:476958.
+doi: 10.1016/j.jneuroim.2019.04.018. Epub 2019 May 2.
+The therapeutic effect of platelet-rich plasma on the experimental autoimmune encephalomyelitis mice
+Maryam Borhani-Haghighi  1 , Yousef Mohamadi  2
+Affiliations
+
+    PMID: 31103935 DOI: 10.1016/j.jneuroim.2019.04.018 
+
+Abstract
+
+The use of growth factors is considered to be one of the promising therapeutic strategies for multiple sclerosis (MS). Various studies have shown that platelet-rich plasma (PRP), a bioproduct
+ of concentrated platelets, contains a variety of growth factors such as insulin-like growth factor 1 (IGF-1), platelet-derived growth factor (PDGF), epithelial growth factor (EGF), and 
+ transforming growth factor β (TGF-β). The therapeutic roles of PRP, with regard to a wide range of growth factors, on the nervous system have been shown in a limited number of studies.
+  This study aimed to investigate the therapeutic effect of PRP in experimental autoimmune encephalomyelitis (EAE) mouse model of MS. PRP was prepared and intrathecally injected into the 
+  EAE mice. The EAE scoring test, the modified neurological severity score (mNSS) test, luxol fast blue and hematoxylin and eosin staining, real-time PCR, and western blotting were used
+   for studying the effect of PRP on the motosensory function, remyelination, inflammatory cell infiltration, gliosis, and inflammatory cytokines expression. PRP administration in
+    treated animals improved the functional abilities, remyelination, and oligodendrogenesis compared to the EAE mice. Furthermore, high numbers of microglia, astrocytes and
+     infiltrating inflammatory cells and also the expression of proinflammatory cytokines were reversed after PRP therapy. In conclusion, these data suggest the PRP as a potential 
+     candidate for MS treatment.
+
+Keywords: Experimental autoimmune encephalomyelitis; Growth factor; Inflammation; Multiple sclerosis; Myelination; Platelet-rich plasma.
+
+
+_________________________________________________________________________________________________________________________________
+
+
+BMC Vet Res
+
+. 2024 Mar 8;20(1):90.
+doi: 10.1186/s12917-024-03920-4.
+Comparison between stem cell therapy and stem cell derived exosomes on induced multiple sclerosis in dogs
+Ahmed N Abdallah  1 , Ashraf A Shamaa  2 , Omar S El-Tookhy  2 , Mohamed M Bahr  3
+Affiliations
+
+    PMID: 38459498 PMCID: PMC10921795 DOI: 10.1186/s12917-024-03920-4 
+
+Abstract
+
+Background: Multiple sclerosis (MS) is a chronic condition that primarily manifests as demyelination of neuronal axons in the central nervous system, due to the loss or attack of 
+oligodendroglia cells that form myelin. Stem cell therapy has shown promising results for the treatment of MS due to its capability to halt the immune attack, stop apoptosis
+ and axonal degeneration, and differentiate into oligodendrocytes. Stem cell-derived Exosomes (Exosomes) have shown great capabilities for neuronal diseases as they have
+  growth factors, complex sets of miRNA, enzymes, proteins, major peptides, lipids, and macromolecules with anti-inflammatory, angiogenesis, and neurogenesis activities.
+
+Methods: This study aimed to compare the healing properties 
+of stem cells, against Exosomes for the treatment of an
+ experimentally induced MS dog model. Dog models of MS received either a single treatment of stem cells or a single treatment of Exosomes intrathecally and the treatment process was evaluated clinically, radiologically, histopathologically, and electron microscopy and cerebrospinal fluid analysis.
+
+Results: showed marked amelioration of the clinical signs in both treated groups compared to the control one, magnetic resonance scans showed the resolution of the hyperintense lesions at the end of the study period, the histopathology and electron microscopy showed marked healing properties and remyelination in treated groups with superiority of the stem cells compared to Exosomes.
+
+Conclusions: Although stem cell results were superior to Exosomes therapy; Exosomes have proven to be effective and safe important actors in myelin regeneration, and their use in diseases like MS helps to stimulate remyelination.
+
+Keywords: Bone marrow stromal cells; Exosomes; Multiple sclerosis; Platelet-rich plasma; Spinal cord injury; Stem cell therapies.
+
+
+_________________________________________________________________________________________________________________________________
+
+
+Inflamm Regen
+
+. 2022 Oct 14;42(1):45.
+doi: 10.1186/s41232-022-00230-w.
+A novel cell-free intrathecal approach with PRP for the treatment of spinal cord multiple sclerosis in cats
+Mariam F Farid  1 , Yara S Abouelela  2 , Noha A E Yasin  3 , Mohamed R Mousa  4 , Marwa A Ibrahim  5 , Abdelbary Prince  5   6 , Hamdy Rizk  1
+Affiliations
+
+    PMID: 36229845 PMCID: PMC9563497 DOI: 10.1186/s41232-022-00230-w 
+
+Abstract
+
+Background: Multiple sclerosis (MS) is a progressive autoimmune demyelinating disease of the central nervous system. To date, there is no effective therapy for it. Our study aimed to determine the potential role of platelet-rich plasma (PRP) in the treatment of MS in cats.
+
+Methods: The current study was conducted on 15 adult Persian cats that were divided into three groups: control negative, control positive (ethidium bromide (EB)-treated group), and PRP co-treated group (EB-treated group intrathecally injected with PRP on day 14 post-spinal cord injury). PRP was obtained by centrifuging blood on anticoagulant citrate dextrose and activating it with red and green laser diodes. The Basso-Beattie-Bresnahan (BBB) scores were used to assess the motor function recovery on days 1, 3, 7, 14, 20, and 28 following 14 days from EB injection. Moreover, magnetic resonance imaging (MRI) analysis, histopathological investigations, transmission electron microscopy (TEM) studies, and immunohistochemical analysis were conducted, and the gene expressions of nerve growth factors (NGFs), brain-derived neurotrophic factors (BDNF), and stromal cell-derived factors (SDF) were evaluated.
+
+Results: Our results indicated that PRP had a significant ameliorative effect on the motor function of the hindlimbs as early as day 20 and so on. MRI revealed that the size and intensity of the lesion were significantly reduced in the PRP co-treated group. The histopathological and TEM investigations demonstrated that the PRP co-treated group had a significant improvement in the structure and organization of the white matter, as well as a high remyelination capacity. Furthermore, a significant increase in myelin basic protein and Olig2 immunoreactivity as well as a reduction in Bax and glial fibrillar acidic protein immune markers was observed. NGFs were found to be upregulated by gene expression.
+
+Conclusion: As a result, we concluded that the intrathecal injection of PRP was an effective, safe, and promising method for the treatment of MS.
+
+Keywords: BBB score; Demyelination; Ethidium bromide; Multiple sclerosis; Platelet-rich plasma.
+
+_________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/37240731/
+
+
+
+
+Life (Basel)
+
+. 2023 Apr 26;13(5):1085.
+doi: 10.3390/life13051085.
+Gut Microbiota-Derived Short-Chain Fatty Acids: Novel Regulators of Intestinal Serotonin Transporter
+Berta Buey  1 , Ana Forcén  2 , Laura Grasa  1   3   4 , Elena Layunta  3 , Jose Emilio Mesonero  1   3   4 , Eva Latorre  2   3   4
+Affiliations
+
+    PMID: 37240731 PMCID: PMC10221112 DOI: 10.3390/life13051085 
+
+Abstract
+
+Serotonin (5-HT) is a key neurotransmitter synthesized both in the gut and the central nervous system. It exerts its signaling through specific receptors (5-HTR), which regulate numerous behaviors and functions such as mood, cognitive function, platelet aggregation, gastrointestinal motility, and inflammation. Serotonin activity is determined mainly by the extracellular availability of 5-HT, which is controlled by the serotonin transporter (SERT). Recent studies indicate that, by activation of innate immunity receptors, gut microbiota can modulate serotonergic signaling by SERT modulation. As part of its function, gut microbiota metabolize nutrients from diet to produce different by-products, including short-chain fatty acids (SCFAs): propionate, acetate, and butyrate. However, it is not known whether these SCFAs regulate the serotonergic system. The objective of this study was to analyze the effect of SCFAs on the gastrointestinal serotonergic system using the Caco-2/TC7 cell line that expresses SERT and several receptors constitutively. Cells were treated with different SCFAs concentrations, and SERT function and expression were evaluated. In addition, the expression of 5-HT receptors 1A, 2A, 2B, 3A, 4, and 7 was also studied. Our results show that the microbiota-derived SCFAs regulate intestinal serotonergic system, both individually and in combination, modulating the function and expression of SERT and the 5-HT1A, 5-HT2B, and 5-HT7 receptors expression. Our data highlight the role of gut microbiota in the modulation of intestinal homeostasis and suggest microbiome modulation as a potential therapeutic treatment for intestinal pathologies and neuropsychiatric disorders involving serotonin.
+
+Keywords: SERT; immunity; intestine; microbiota-gut–brain axis; serotonin.
+_________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/37642274/
+
+
+Transfusion
+
+. 2023 Oct;63(10):1983-1996.
+doi: 10.1111/trf.17524. Epub 2023 Aug 29.
+Platelet extracellular vesicles and their mitochondrial content improve the mitochondrial bioenergetics of cellular immune recipients
+Martin Pelletier  1   2 , Yann Breton  1   2 , Isabelle Allaeys  1   2 , Yann Becker  1   2 , Tom Benson  3 , Eric Boilard  1   2
+Affiliations
+
+    PMID: 37642274 DOI: 10.1111/trf.17524 
+
+
+Abstract
+
+Background: Mitochondria play a critical role in the production of cell energy and the regulation of cell death. Therefore, mitochondria orchestrate numerous cell effector functions, including fine-tuning the immune system. While mitochondria are mainly found intracellularly, they can escape the confine of the cell during the process of extracellular vesicle release. Platelets patrol blood vessels to ensure vasculature integrity and to support the immune system. In blood, platelets are the primary source of circulating mitochondria. Activated platelets produce extracellular vesicles, including a subset of mitochondria-containing vesicles.
+
+Study design and methods: We characterized mitochondrial functions in platelet-derived extracellular vesicles, and examined whether they could impact the bioenergetics of cellular immune recipients using an extracellular flux analyzer to measure real-time bioenergetics.
+
+Results: We validated that extracellular vesicles derived from activated platelets contain the necessary mitochondrial machinery to respirate and generate energy. Moreover, neutrophils and monocytes efficiently captured platelet-derived extracellular vesicles, enhancing their mitochondrial fitness. This process required functional mitochondria from donor platelets, as it was abolished by the inactivation of extracellular mitochondria using mitochondrial poison.
+
+Discussion: Together, the data suggest that extracellular mitochondria produced by platelets may support other metabolic functions through transcellular bioenergetics.
+
+Keywords: hematology - platelets; immunology (other than RBC serology); molecular biology.
+
+__________________________________________________________________________________________________________________________________
+
+
+https://pubmed.ncbi.nlm.nih.gov/30904011/
+
+=>   http://www.biomed.cas.cz/physiolres/pdf/68/68_347.pdf
+
+
+Review
+Physiol Res
+
+. 2019 Jun 30;68(3):347-363.
+doi: 10.33549/physiolres.934032. Epub 2019 Mar 22.
+Assessment of platelet respiration as emerging biomarker of disease
+A T Petrus  1 , D L Lighezan, M D Danila, O M Duicu, A Sturza, D M Muntean, I Ionita
+Affiliations
+
+    PMID: 30904011 DOI: 10.33549/physiolres.934032 
+__________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/37712224/
+
+=>  https://www.hh.um.es/pdf/Vol_39/39_2/Bavuso-39-131-144-2024.pdf
+
+
+ Review
+Histol Histopathol
+
+. 2024 Feb;39(2):131-144.
+doi: 10.14670/HH-18-659. Epub 2023 Sep 1.
+Extracellular vesicles in acute respiratory distress syndrome: Understanding protective and harmful signaling for the development of new therapeutics
+Matthew Bavuso  1 , Noel Miller  1 , Joshua M Sill  2 , Anca Dobrian  1 , Ruben M L Colunga Biancatelli  1   2   3
+Affiliations
+
+    PMID: 37712224 DOI: 10.14670/HH-18-659 
+_________________________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________________________
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10500824/
+
+J Biomed Sci. 2023; 30: 79.
+Published online 2023 Sep 14. doi: 10.1186/s12929-023-00972-w
+PMCID: PMC10500824
+PMID: 37704991
+Expanding applications of allogeneic platelets, platelet lysates, and platelet extracellular vesicles in cell therapy, regenerative medicine, and targeted drug delivery
+Thierry Burnouf,corresponding author1,2,3 Ming-Li Chou,1,5 David J. Lundy,1,2 Er-Yuan Chuang,1,2 Ching-Li Tseng,1,2 and Hadi Goubran4
+
+Conclusions
+
+Allogeneic clinical-grade PCs collected from repeat healthy blood donors by licensed blood establishments represent a readily available source of therapeutic cells, which, when not used to cover the needs for hospital transfusion, can serve rapidly growing clinical needs for cell therapy, regenerative medicine, and drug delivery. The beneficial use of allogeneic platelets in these therapeutic domains is currently illustrated by the demonstration that HPL is a safe and potent xeno-free substitute for FBS as a growth medium supplement for the clinical-grade expansion of human cells for transplantation, primarily MSCs, and potentially others like chondrocytes, DCs, or CAR-T cells. Currently, the use of allogeneic PCs as source material for the preparation of HPLs for direct clinical use is still at a relatively early stage; however, recent developments are demonstrating that allogeneic HPLs are a viable and safe alternative to traditional serum eye drops for the treatment of ocular surface disorders, including dry eye syndrome. One can logically anticipate that future preclinical and clinical studies will examine the possibility of using allogeneic HPLs in other degenerative pathologies such as treating recalcitrant skin wounds and degenerative joints, and even as biotherapy to modulate neurodegenerative diseases of the central nervous system. When considering such applications in regenerative medicine, it will remain vital to develop dedicated and standardized HPL preparations, which through careful scientifically based in vitro characterization and well-designed preclinical and clinical evaluations are demonstrated to be safe and best fit the clinical specificities of the pathology addressed for optimal efficacy. In this manuscript, we also highlighted the exciting potential offered by allogeneic PCs and HPLs as source materials, complementary to MSCs, for the isolation of various types of pooled p-EV preparations as subcellular therapeutic modalities for regenerative medicine or as vehicles for drug delivery. Establishing p-EVs as a recognized therapy requires, as for most EV sources [356], the resolution of various manufacturing and regulatory challenges. Challenges include, among others, the development of reliable and dedicated p-EV generation and downstream purification processes, including pathogen-reduction treatments, the capacity to provide suitable biochemical characterization of the molecular cargo and mechanism of action and/or targeting, the development of meaningful quality control assays to guarantee batch-to-batch consistency, safety, and efficacy, and the implementation of meaningful preclinical tests relevant to targeted clinical indications. In conclusion, we believe that allogeneic platelet-derived preparations are likely to have an increasingly prominent position in the future among the arsenal of biotherapies available for cell therapy, regenerative medicine, and drug delivery.
+
+_________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/38465204/
+
+ Review
+Int J Nanomedicine
+
+. 2024 Mar 6:19:2241-2264.
+doi: 10.2147/IJN.S446224. eCollection 2024.
+Extracellular Vesicles: A New Star for Gene Drug Delivery
+Man Sun  1 , Huan Zhang  1 , Jiayi Liu  1 , Jiayi Chen  1 , Yaxin Cui  1 , Simiao Wang  1 , Xiangyu Zhang  2 , Zhaogang Yang  1
+Affiliations
+
+    PMID: 38465204 PMCID: PMC10924919 DOI: 10.2147/IJN.S446224 
+
+ Abstract
+
+Recently, gene therapy has become a subject of considerable research and has been widely evaluated in various disease models. Though it is considered as a stand-alone agent for COVID-19 vaccination, gene therapy is still suffering from the following drawbacks during its translation from the bench to the bedside: the high sensitivity of exogenous nucleic acids to enzymatic degradation; the severe side effects induced either by exogenous nucleic acids or components in the formulation; and the difficulty to cross the barriers before reaching the therapeutic target. Therefore, for the successful application of gene therapy, a safe and reliable transport vector is urgently needed. Extracellular vesicles (EVs) are the ideal candidate for the delivery of gene drugs owing to their low immunogenicity, good biocompatibility and low toxicity. To better understand the properties of EVs and their advantages as gene drug delivery vehicles, this review covers from the origin of EVs to the methods of EVs generation, as well as the common methods of isolation and purification in research, with their pros and cons discussed. Meanwhile, the engineering of EVs for gene drugs is also highlighted. In addition, this paper also presents the progress in the EVs-mediated delivery of microRNAs, small interfering RNAs, messenger RNAs, plasmids, and antisense oligonucleotides. We believe this review will provide a theoretical basis for the development of gene drugs.
+
+_________________________________________________________________________________________________________________________________
+
+Biomed Pharmacother
+
+. 2020 Oct:130:110542.
+doi: 10.1016/j.biopha.2020.110542. Epub 2020 Jul 29.
+Role of the NLRP3 inflammasome in autoimmune diseases
+Zhe Li  1 , Jialong Guo  1 , Liqi Bi  2
+Affiliations
+
+    PMID: 32738636 DOI: 10.1016/j.biopha.2020.110542 
+
+Abstract
+
+NOD-like receptor family pyrin domain containing 3 (NLRP3) is an intracellular receptor that senses foreign pathogens and endogenous danger signals. It assembles with apoptosis-associated speck-like protein containing a CARD (ASC) and caspase-1 to form a multimeric protein called the NLRP3 inflammasome. Among its various functions, the NLRP3 inflammasome can induce the release of the pro-inflammatory cytokines interleukin (IL)-1β and IL-18 while also promoting gasdermin D (GSDMD)-mediated pyroptosis. Previous studies have established a vital role for the NLRP3 inflammasome in innate and adaptive immune system as well as its contribution to several autoimmune diseases including rheumatoid arthritis (RA), systemic lupus erythematosus (SLE), Sjögren's syndrome (SS), systemic sclerosis (SSc), and ankylosing spondylitis (AS). In this review, we briefly introduce the biological features of the NLRP3 inflammasome and present the mechanisms underlying its activation and regulation. We also summarize recent studies that have reported on the roles of NLRP3 inflammasome in the immune system and several autoimmune diseases, with a focus on therapeutic and clinical applications.
+
+Keywords: Autoimmune disease; Inflammasome; NLRP3.
+________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/36950759/
+
+Review
+Adv Biol (Weinh)
+
+. 2023 Aug;7(8):e2200337.
+doi: 10.1002/adbi.202200337. Epub 2023 Mar 22.
+Impact of Intermittent Fasting on the Gut Microbiota: A Systematic Review
+Theodoro Pérez-Gerdel  1 , Milena Camargo  1   2 , Mateo Alvarado  1 , Juan David Ramírez  1   3
+Affiliations
+
+    PMID: 36950759 DOI: 10.1002/adbi.202200337 
+
+Abstract
+
+Obesity often results in severe negative health consequences and represents a growing issue for global health. Reducing food intake is a crucial factor for weight loss. Intermittent fasting is a relatively new intervention that contributes to weight reduction. Considering the intimate relationship between obesity and inflammatory pathologies with gut microbiota alterations, a systematic review of the literature was herein conducted to elucidate the relationship between time-restricted food intake and gut microbiota diversity in humans. Searches are carried out in three databases (PubMed, MedLine/OVID, and Academic Search Complete) between April 2019 and April 2022. Nine studies (all with longitudinal design) were identified as eligible by presenting data about the impact of intermittent fasting schemes on gut microbiota. At the phylum level, Firmicutes and Bacteroidetes increase throughout follow-ups, while 16 bacteria genera change their abundance in response to intermittent fasting. Finally, some genera associated with clinical predictors such as weight change, abdominal circumference, and metabolic variables were reported. Changes induced by fasting schemes positively impact the diversity and abundance of gut microbiota and the biomarkers described here. However, the changes previously reported have been studied in short periods and some return to their basal state after fasting intervention.
+
+Keywords: diversity; intermittent fasting; microbiota; obesity; weight loss.
+__________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/33017844/
+
+ Randomized Controlled Trial
+J Clin Endocrinol Metab
+
+. 2021 Jan 1;106(1):64-79.
+doi: 10.1210/clinem/dgaa644.
+Intermittent Fasting Improves Cardiometabolic Risk Factors and Alters Gut Microbiota in Metabolic Syndrome Patients
+Yi Guo  1 , Shiyun Luo  1 , Yongxin Ye  1 , Songping Yin  1 , Jiahua Fan  1 , Min Xia  1
+Affiliations
+
+    PMID: 33017844 DOI: 10.1210/clinem/dgaa644 
+
+Abstract
+
+Context: Intermittent fasting (IF) is an effective strategy to improve cardiometabolic health.
+
+Objective: The objective of this work is to examine the effects of IF on cardiometabolic risk factors and the gut microbiota in patients with metabolic syndrome (MS).
+
+Design and setting: A randomized clinical trial was conducted at a community health service center.
+
+Patients: Participants included adults with MS, age 30 to 50 years.
+
+Intervention: Intervention consisted of 8 weeks of "2-day" modified IF.
+
+Main outcome measure: Cardiometabolic risk factors including body composition, oxidative stress, inflammatory cytokines, and endothelial function were assessed at baseline and at 8 weeks. The diversity, composition, and functional pathways of the gut microbiota, as well as circulating gut-derived metabolites, were measured.
+
+Results: Thirty-nine patients with MS were included: 21 in the IF group and 18 in the control group. On fasting days, participants in the IF group reduced 69% of their calorie intake compared to nonfasting days. The 8-week IF significantly reduced fat mass, ameliorated oxidative stress, modulated inflammatory cytokines, and improved vasodilatory parameters. Furthermore, IF induced significant changes in gut microbiota communities, increased the production of short-chain fatty acids, and decreased the circulating levels of lipopolysaccharides. The gut microbiota alteration attributed to the IF was significantly associated with cardiovascular risk factors and resulted in distinct genetic shifts of carbohydrate metabolism in the gut community.
+
+Conclusion: IF induces a significant alteration of the gut microbial community and functional pathways in a manner closely associated with the mitigation of cardiometabolic risk factors. The study provides potential mechanistic insights into the prevention of adverse outcomes associated with MS.
+
+Trial registration: ClinicalTrials.gov NCT03608800.
+
+Keywords: cardiometabolic risk factors; gut microbiota; intermittent fasting; metabolic syndrome.
+_________________________________________________________________________________________________________________________________
+
+https://pubmed.ncbi.nlm.nih.gov/30840892/
+
+Cell Rep
+
+. 2019 Mar 5;26(10):2704-2719.e6.
+doi: 10.1016/j.celrep.2019.02.019.
+Fasting-Mimicking Diet Modulates Microbiota and Promotes Intestinal Regeneration to Reduce Inflammatory Bowel Disease Pathology
+Priya Rangan  1 , Inyoung Choi  1 , Min Wei  1 , Gerardo Navarrete  1 , Esra Guen  1 , Sebastian Brandhorst  1 , Nobel Enyati  2 , Gab Pasia  1 , Daral Maesincee  1 , Vanessa Ocon  1 , Maya Abdulridha  1 , Valter D Longo  3
+Affiliations
+
+    PMID: 30840892 PMCID: PMC6528490 DOI: 10.1016/j.celrep.2019.02.019 
+
+Abstract
+
+Dietary interventions are potentially effective therapies for inflammatory bowel diseases (IBDs). We tested the effect of 4-day fasting-mimicking diet (FMD) cycles on a chronic dextran sodium sulfate (DSS)-induced murine model resulting in symptoms and pathology associated with IBD. These FMD cycles reduced intestinal inflammation, increased stem cell number, stimulated protective gut microbiota, and reversed intestinal pathology caused by DSS, whereas water-only fasting increased regenerative and reduced inflammatory markers without reversing pathology. Transplants of Lactobacillus or fecal microbiota from DSS- and FMD-treated mice reversed DSS-induced colon shortening, reduced inflammation, and increased colonic stem cells. In a clinical trial, three FMD cycles reduced markers associated with systemic inflammation. The effect of FMD cycles on microbiota composition, immune cell profile, intestinal stem cell levels and the reversal of pathology associated with IBD in mice, and the anti-inflammatory effects demonstrated in a clinical trial show promise for FMD cycles to ameliorate IBD-associated inflammation in humans.
+
+Keywords: Crohn’s disease; fasting; fasting-mimicking diet; gut microbiota; inflammation; inflammatory bowel disease; intermittent fasting; microbiome; ulcerative colitis.
+________________________________________________________________________________________________________________________________
+
+Research Article | Open Access
+Volume 2021 | Article ID 5816837 | https://doi.org/10.1155/2021/5816837
+Fecal Microbiota Transplantation Is a Promising Method to Restore Gut Microbiota Dysbiosis 
+and Relieve Neurological Deficits after Traumatic Brain Injury
+
+Donglin Du,1Wei Tang,1Chao Zhou,1Xiaochuan Sun
+,1Zhengqiang Wei,2Jianjun Zhong
+,1and Zhijian Huang
+
+Background. Traumatic brain injury (TBI) can induce persistent
+fluctuation in the gut microbiota makeup and abundance. The present study is aimed at determining 
+ whether fecal microbiota transplantation (FMT) can rescue microbiota
+  changes and ameliorate neurological deficits after TBI in rats.
+Methods. A controlled cortical impact (CCI) model was used to simulate TBI in male Sprague-Dawley rats, and FMT was performed 
+ for 7 consecutive days. 16S ribosomal RNA (rRNA) sequencing of fecal samples was performed to analyze the effects of FMT on gut microbiota.
+Modified neurological severity score and Morris water maze were used to evaluate neurobehavioral functions. Metabolomics was used to screen differential 
+metabolites from the rat serum and ipsilateral brains. The oxidative stress indices were measured in the brain. Results. TBI induced significance changes
+in the gut microbiome, including the alpha- and beta-bacterial diversity,  as well as the microbiome composition at 8 days after TBI. 
+On the other hand, FMT could rescue these changes and relieve neurological deficits after TBI. Metabolomics results showed that the level of trimethylamine (TMA) in feces and the level of 
+trimethylamine N-oxide (TMAO) in the ipsilateral brain and serum was increased after TBI, while FMT decreased TMA levels in the feces, and TMAO levels in the ipsilateral brain and serum. Antioxidant enzyme 
+methionine sulfoxide reductase A (MsrA) 
+in the ipsilateral hippocampus was decreased after TBI but increased after FMT. In addition, FMT elevated SOD and CAT activities 
+and GSH/GSSG ratio and diminished ROS, GSSG, and MDA levels in the ipsilateral hippocampus after TBI. 
+Conclusions. FMT can restore gut microbiota dysbiosis and relieve neurological deficits possibly through the TMA-TMAO-MsrA signaling pathway after TBI.
+
+---------
+
+https://pubmed.ncbi.nlm.nih.gov/27943214/
+
+ Exosomes and Microvesicles
+
+Methods and Protocols
+
+https://www.springer.com/series/7651
+
